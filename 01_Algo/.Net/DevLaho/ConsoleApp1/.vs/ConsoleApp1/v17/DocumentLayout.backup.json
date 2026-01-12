@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E322CF1B-DBD5-4E6E-837A-8F46D60469FD}|Exercice22\\Exercice22.csproj|c:\\users\\admin\\desktop\\laho-roubaix\\algo\\.net\\devlaho\\consoleapp1\\exercice22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E322CF1B-DBD5-4E6E-837A-8F46D60469FD}|Exercice22\\Exercice22.csproj|solutionrelative:exercice22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0B6919-D770-46AF-B55F-3785C99DA110}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\admin\\desktop\\laho-roubaix\\algo\\.net\\devlaho\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0B6919-D770-46AF-B55F-3785C99DA110}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A16748D-0FC9-40E4-B27F-6D5BF2028B22}|Exercice10\\Exercice10.csproj|c:\\users\\admin\\desktop\\laho-roubaix\\algo\\.net\\devlaho\\consoleapp1\\exercice10\\exercice10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A16748D-0FC9-40E4-B27F-6D5BF2028B22}|Exercice10\\Exercice10.csproj|solutionrelative:exercice10\\exercice10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329575F6-3A26-42EC-8902-1D95A356159C}|Exercice21\\Exercice21.csproj|c:\\users\\admin\\desktop\\laho-roubaix\\algo\\.net\\devlaho\\consoleapp1\\exercice21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329575F6-3A26-42EC-8902-1D95A356159C}|Exercice21\\Exercice21.csproj|solutionrelative:exercice21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9083496-19B9-4E9C-A068-4A2BB87FAD47}|Exercice20\\Exercice20.csproj|c:\\users\\admin\\desktop\\laho-roubaix\\algo\\.net\\devlaho\\consoleapp1\\exercice20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9083496-19B9-4E9C-A068-4A2BB87FAD47}|Exercice20\\Exercice20.csproj|solutionrelative:exercice20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8746BCBA-BBA6-4EF5-89C8-651E0DA41A00}|Exercice19\\Exercice19.csproj|c:\\users\\admin\\desktop\\laho-roubaix\\algo\\.net\\devlaho\\consoleapp1\\exercice19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8746BCBA-BBA6-4EF5-89C8-651E0DA41A00}|Exercice19\\Exercice19.csproj|solutionrelative:exercice19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\Exercice22\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice22\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\Exercice22\\Program.cs",
+              "RelativeToolTip": "Exercice22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:15:44.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercice10",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\Exercice10\\Exercice10.csproj",
+              "RelativeDocumentMoniker": "Exercice10\\Exercice10.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\Exercice10\\Exercice10.csproj",
+              "RelativeToolTip": "Exercice10\\Exercice10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T14:23:12.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\Exercice21\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice21\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\Exercice21\\Program.cs",
+              "RelativeToolTip": "Exercice21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:08:55.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\Exercice20\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice20\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\Exercice20\\Program.cs",
+              "RelativeToolTip": "Exercice20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:06:02.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:11:45.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\Exercice19\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice19\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\laho-roubaix\\algo\\.Net\\DevLaho\\ConsoleApp1\\Exercice19\\Program.cs",
+              "RelativeToolTip": "Exercice19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:56:48.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

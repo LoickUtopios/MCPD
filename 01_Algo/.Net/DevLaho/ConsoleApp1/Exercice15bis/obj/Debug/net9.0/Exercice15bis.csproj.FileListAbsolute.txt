@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\bin\Debug\net9.0\Exercice15bis.exe
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\bin\Debug\net9.0\Exercice15bis.deps.json
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\bin\Debug\net9.0\Exercice15bis.runtimeconfig.json
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\bin\Debug\net9.0\Exercice15bis.dll
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\bin\Debug\net9.0\Exercice15bis.pdb
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\obj\Debug\net9.0\Exercice15bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\obj\Debug\net9.0\Exercice15bis.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\obj\Debug\net9.0\Exercice15bis.AssemblyInfo.cs
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\obj\Debug\net9.0\Exercice15bis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\obj\Debug\net9.0\Exercice15bis.dll
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\obj\Debug\net9.0\refint\Exercice15bis.dll
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\obj\Debug\net9.0\Exercice15bis.pdb
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\obj\Debug\net9.0\Exercice15bis.genruntimeconfig.cache
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice15bis\obj\Debug\net9.0\ref\Exercice15bis.dll

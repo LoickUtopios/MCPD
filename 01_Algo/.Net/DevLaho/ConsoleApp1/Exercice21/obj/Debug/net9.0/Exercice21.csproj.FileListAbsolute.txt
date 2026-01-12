@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\bin\Debug\net9.0\Exercice21.exe
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\bin\Debug\net9.0\Exercice21.deps.json
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\bin\Debug\net9.0\Exercice21.runtimeconfig.json
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\bin\Debug\net9.0\Exercice21.dll
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\bin\Debug\net9.0\Exercice21.pdb
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\obj\Debug\net9.0\Exercice21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\obj\Debug\net9.0\Exercice21.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\obj\Debug\net9.0\Exercice21.AssemblyInfo.cs
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\obj\Debug\net9.0\Exercice21.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\obj\Debug\net9.0\Exercice21.dll
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\obj\Debug\net9.0\refint\Exercice21.dll
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\obj\Debug\net9.0\Exercice21.pdb
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\obj\Debug\net9.0\Exercice21.genruntimeconfig.cache
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\Exercice21\obj\Debug\net9.0\ref\Exercice21.dll

@@ -1,0 +1,25 @@
+##  Exercices sur les différent opérateurs
+
+#  Opérateur arithmétique 
+
+1. Déclarer 2 nombre entiers `a` et `b`.
+2. Affichez la somme, le produit et la division des 2 nombres.
+3. Déclarer un 3e nombre entier `c`.
+4. Affichez la moyenne des 3 nombres. 
+5. Affichez la somme des carré des nombres `a` et `b`.
+
+# Opérateurs de comparaisons
+
+1. Déclarer 2 nombres `nb1` et `nb2` et affectez leur des valeurs.
+2. Ecrire des expressions qui renvoient True ou False : 
+    - `nb1` est strictement supérieur à `nb2`
+    - `nb1` est identique à `nb2`
+    - `nb1` est différent de `nb2`
+    - `nb1` est pair
+
+# Opérateurs logique
+
+1. Déclarer 3 nombres entier `x`, `y` et `z`
+2. Ecrire une expression qui retourne True si : `x` est le plus grand des trois.
+3. Ecrire une expression qui retourne True si : `x`, `y` et `z` sont tout les 3 pairs.
+4. Ecrire une expressions qui retourn True si : `y` est entre `x` et `z`. (si x < y < z)

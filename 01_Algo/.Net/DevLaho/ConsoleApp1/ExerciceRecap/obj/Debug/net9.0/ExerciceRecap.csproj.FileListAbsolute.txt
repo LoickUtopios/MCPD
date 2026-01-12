@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\bin\Debug\net9.0\ExerciceRecap.exe
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\bin\Debug\net9.0\ExerciceRecap.deps.json
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\bin\Debug\net9.0\ExerciceRecap.runtimeconfig.json
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\bin\Debug\net9.0\ExerciceRecap.dll
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\bin\Debug\net9.0\ExerciceRecap.pdb
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\obj\Debug\net9.0\ExerciceRecap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\obj\Debug\net9.0\ExerciceRecap.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\obj\Debug\net9.0\ExerciceRecap.AssemblyInfo.cs
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\obj\Debug\net9.0\ExerciceRecap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\obj\Debug\net9.0\ExerciceRecap.dll
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\obj\Debug\net9.0\refint\ExerciceRecap.dll
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\obj\Debug\net9.0\ExerciceRecap.pdb
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\obj\Debug\net9.0\ExerciceRecap.genruntimeconfig.cache
+C:\Users\Admin\Desktop\laho-roubaix\algo\.Net\DevLaho\ConsoleApp1\ExerciceRecap\obj\Debug\net9.0\ref\ExerciceRecap.dll
