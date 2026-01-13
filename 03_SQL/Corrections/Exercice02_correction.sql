@@ -1,0 +1,16 @@
+CREATE TABLE IF NOT EXISTS Utilisateurs (
+	id_utilisateur INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    age INT,
+    pays VARCHAR(255) DEFAULT "France",
+    CONSTRAINT ck_age CHECK (age >= 18)
+);
+
+ALTER TABLE Utilisateurs
+RENAME TO users; 
+
+ALTER TABLE users 
+ADD COLUMN prenom VARCHAR(200),
+DROP CONSTRAINT ck_age,
+MODIFY nom VARCHAR(200);
