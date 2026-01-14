@@ -100,6 +100,33 @@ ORDER BY salaire DESC
 LIMIT 3 OFFSET 3;
 
 
+-- Fonction d'aggrégation et GROUP BY
+-- Les fonctions d'aggrégation sont des fonctions pour effectuer des calculs sur nos enregistrements.
+-- Attention, elle ne retourne qu'une seule valeur
+-- MAX permet de récupérer la valeur maximum d'une colonne. 
+-- MIN permet de récupérer la valeur minimum. 
+SELECT MAX(salaire) AS salaire_maximum
+FROM salarie; 
 
+-- AVG() renvoie la moyenne des valeurs d'une colonne
+-- SUM() renvoie la somme des valeurs d'une colonne
+-- ROUND() permet d'arondir une valeur à l'entier le plus proche
+SELECT ROUND(AVG(salaire)) AS salaire_moyen
+FROM salarie;
 
+-- Le GROUP BY va permettre de regrouper nos enregistrements selon une valeur identique d'une colonne.
+SELECT AVG(salaire) AS salaire_moyen, service_id
+FROM salarie
+GROUP BY service_id;
 
+-- COUNT permet de compter le nombre d'enregistrement basé sur la colonne précisé. 
+-- Attention, il ne compte pas les valeurs a NULL
+SELECT COUNT(*) AS nb_salarie, service_id
+FROM salarie
+GROUP BY service_id;
+
+-- Le HAVING permet d'ajouter une condition à chaque groupe réalisé par le GROUP BY
+SELECT AVG(age) AS age_moyen, service_id
+FROM salarie
+GROUP BY service_id
+HAVING AVG(age) >= 30; 
