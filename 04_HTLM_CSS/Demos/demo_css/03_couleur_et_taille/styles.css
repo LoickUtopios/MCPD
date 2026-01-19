@@ -1,0 +1,56 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Couleurs */
+.paragraph-named-color {
+    color: red;
+}
+
+.paragraph-hex {
+    color: #bf0505; /* Rouge */
+}
+
+.paragraph-rgb {
+    color: rgb(0, 128, 0); /* Vert */
+}
+
+.paragraph-rgba {
+    color: rgba(0, 0, 255, 0.5); /* Bleu avec 50% d'opacité */
+}
+
+.paragraph-hsl {
+    color: hsl(240, 100%, 50%); /* Bleu */
+}
+
+.paragraph-hsla {
+    color: hsla(240, 100%, 50%, 0.5); /* Bleu avec 50% d'opacité */
+}
+
+/* Tailles */
+.paragraph-px {
+    font-size: 16px;
+}
+
+.paragraph-em {
+    font-size: 1.5em;
+}
+
+.paragraph-rem {
+    font-size: 1rem;
+}
+
+.paragraph-percent {
+    font-size: 150%;
+}
+
+.paragraph-vw {
+    font-size: 10vw;
+}
+
+.paragraph-vh {
+    font-size: 10vh;
+}
