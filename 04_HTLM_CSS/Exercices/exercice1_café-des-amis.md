@@ -8,7 +8,7 @@
 2. **En-tête du document** : Ajoutez un titre, une description, des mots-clés, et une favicon.
 3. **En-tête de la page** : Utilisez des balises de titre, une image de logo, et un menu de navigation avec les points suivants : Accueil, Le Menu, Contact, Horaires.
 4. **Section principale** :
-   - **Présentation** : Utilisez des balises sémantiques comme `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, et `<footer>`.
+   - **Présentation** : Utilisez des balises sémantiques comme `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, et `<footer>`.
    - **Menu** : Créez une liste de boissons et de plats.
    - **Galerie de photos** : Affichez des images avec des légendes.
    - **Formulaire de réservation** : Ajoutez un formulaire pour réserver une table.
