@@ -1,0 +1,252 @@
+/*#########################
+        utilisation d'une police google avec @import celle ci est a place en premier dans le fichier css 
+############################*/
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+
+
+/*#########################
+        utilisation d'une police (fichier .ttf)
+############################*/
+@font-face {
+    font-family: 'Anton SC';
+    src: url('fonts/AntonSC-Regular.ttf') format('truetype');
+    /* Pour plusieurs variante  */
+   /* font-weight: 400;
+    font-style: normal; */
+}
+
+
+
+
+
+.div{
+    width: 800px;
+    margin: 0 auto;
+}
+
+div > div {
+    border: 2px solid blue;
+    margin-top: 5px;
+}
+
+/*#########################
+        Text Alignement
+############################*/
+
+#txt-algn-lft{
+    text-align: left;
+}
+
+#txt-algn-cnt{
+    text-align: center;
+}
+
+#txt-algn-rgt{
+    text-align: right;
+}
+
+#txt-algn-jst{
+    text-align: justify;
+}
+
+/*#########################
+        Font Size
+############################*/
+
+
+#txt-size-small {
+    font-size: 8px;
+}
+
+#txt-size-medium {
+    font-size: 1rem;
+}
+
+#txt-size-big {
+    font-size: 200%;
+}
+
+.xx-small {
+    font-size: xx-small;
+}
+
+.x-small {
+    font-size: x-small;
+}
+
+.small {
+    font-size: small;
+}
+
+.medium {
+    font-size: medium; /* Par défaut, 16px */
+}
+
+.large {
+    font-size: large;
+}
+
+.x-large {
+    font-size: x-large;
+}
+
+.xx-large {
+    font-size: xx-large;
+}
+
+.smaller {
+    font-size: smaller; /* Plus petit que l'élément parent */
+}
+
+.larger {
+    font-size: larger; /* Plus grand que l'élément parent */
+} 
+
+/*#########################
+        Font Familly
+############################*/
+
+#txt-font-01 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#txt-font-02 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#txt-font-03 {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+/*  Font telecharger   */
+#txt-font-04 {
+    font-family: 'Anton SC', sans-serif;
+}
+
+/*  Font import google   */
+#txt-font-05 {
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+/*#########################
+        Font 
+############################*/
+
+#txt-weight-01 {
+    font-weight: normal;
+}
+
+#txt-weight-02 {
+    font-weight: bold;
+}
+
+#txt-style-01 {
+    font-style: normal;
+}
+
+#txt-style-02 {
+    font-style: italic;
+}
+
+/*#########################
+        Decoration
+############################*/
+
+#txt-dec-01 {
+    text-decoration: none;
+}
+
+#txt-dec-02 {
+    text-decoration: underline;
+}
+
+#txt-dec-03 {
+    text-decoration: line-through;
+}
+
+#txt-dec-04 {
+    text-decoration: overline;
+}
+
+/*#########################
+        Color
+############################*/
+
+#txt-col-01 {
+    color: black;
+}
+
+#txt-col-02 {
+    color: red;
+}
+
+#txt-col-03 {
+    color: #ff5500;
+}
+
+#txt-col-04 {
+    color: rgb(120, 120, 255);
+}
+
+#txt-col-05 {
+    color: rgba(120, 120, 255, 0.8);
+}
+
+
+/*#########################
+       transform indent shadow
+############################*/
+
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.indent {
+    text-indent: 50px;
+}
+
+.shadow {
+    text-shadow: 2px 2px 1px rgb(255, 0, 0);
+}
+
+/*#########################
+       interlignes et espacements
+############################*/
+
+
+.line-height-normal {
+    line-height: 1.6;
+}
+
+.line-height-large {
+    line-height: 2.5;
+}
+
+.letter-spacing-normal {
+    letter-spacing: normal;
+}
+
+.letter-spacing-wide {
+    letter-spacing: 2px;
+}
+
+.word-spacing-normal {
+    word-spacing: normal;
+}
+
+.word-spacing-wide {
+    word-spacing: 10px;
+}
