@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h2>Le modèle de boîte</h2>
+    <a href="https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/The_box_model">Box Modem mdn web docs</a>
+    <div class="box">
+        <h3>Exemple de Box</h3>
+        <p>Ceci est un exemple illustrant l'utilisation des propriétés margin, border, padding.</p>
+    </div>
+    <hr>
+    <h2>Fusion des marges</h2>
+    <p>Les marges haute et basse des blocs sont parfois fusionnées en une seule marge dont la taille est la plus grande des deux marges fusionnées. C'est ce qu'on appelle la fusion des marges.</p>
+    <a href="https://developer.mozilla.org/fr/docs/Web/CSS/CSS_box_model/Mastering_margin_collapsing">Margin Collapsing mdn web docs</a>
+    <h4>J'ai une marge basse </h4>
+    <h4>J'ai une marge haute</h4>
+    <hr>
+    <h2>box-sizing</h2>
+    <a href="https://developer.mozilla.org/fr/docs/Web/CSS/box-sizing">box-sizing mdn web docs</a>
+    <div class="container">
+        <div class="box-sizing content-box">
+            <h4>Content Box</h4>
+            <p>Cette boîte utilise box-sizing: content-box.</p>
+        </div>
+        <div class="box-sizing border-box">
+            <h4>Border Box</h4>
+            <p>Cette boîte utilise box-sizing: border-box.</p>
+        </div>
+    </div>
+    <hr>
+    <h2>overflow</h2>
+    <a href="https://developer.mozilla.org/fr/docs/Web/CSS/overflow">overflow mdn web docs</a>
+    <div class="container-overflow ">
+        <h2>Overflow: normal</h2>
+        <div>
+            <p>Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur.</p>
+        </div>
+    </div>
+    <div class="container-overflow hidden">
+        <h2>Overflow: hidden</h2>
+        <div class="content">
+            <p>Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur.</p>
+        </div>
+    </div>
+    <div class="container-overflow scroll">
+        <h2>Overflow: scroll</h2>
+        <div class="content">
+            <p>Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur. Ce texte dépasse les dimensions du conteneur.</p>
+        </div>
+    </div>
+</body>
+</html>

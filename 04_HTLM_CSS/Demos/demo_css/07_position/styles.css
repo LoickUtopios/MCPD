@@ -1,0 +1,85 @@
+
+.pos-container {
+    height: 600px;
+    width: 600px;
+    background-color: grey;
+}
+
+.pos-container div {
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    text-align: center;
+}
+
+.pos-container div span {
+    color: white;
+}
+
+.divA {
+    background-color: red;
+}
+
+.divB {
+    background-color: green;
+}
+
+.divC {
+    background-color: blue;
+}
+
+#pos-container-relative .divB {
+    position: relative;
+    left: 200px;
+}
+
+#pos-container-relative .divC {
+    position: relative;
+    left: 400px;
+}
+
+#pos-container-absolute {
+    position: relative;
+}
+
+#pos-container-absolute .divA {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#pos-container-absolute .divB {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+#pos-container-absolute .divC {
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+
+#pos-container-fixed {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+#pos-container-fixed .divA {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#pos-container-fixed .divB {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+#pos-container-fixed .divC {
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
