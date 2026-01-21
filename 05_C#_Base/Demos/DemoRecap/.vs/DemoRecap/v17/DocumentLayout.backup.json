@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA625545-A216-46D3-B1CA-F51DBFB06B2B}|CorrectionExercice1\\CorrectionExercice1.csproj|c:\\users\\admin\\desktop\\mcdp\\05_c#_base\\demos\\demorecap\\correctionexercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA625545-A216-46D3-B1CA-F51DBFB06B2B}|CorrectionExercice1\\CorrectionExercice1.csproj|solutionrelative:correctionexercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF0C9CEB-4ADC-41B9-9327-F859723BF970}|DemoRecap\\DemoRecap.csproj|c:\\users\\admin\\desktop\\mcdp\\05_c#_base\\demos\\demorecap\\demorecap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF0C9CEB-4ADC-41B9-9327-F859723BF970}|DemoRecap\\DemoRecap.csproj|solutionrelative:demorecap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\CorrectionExercice1\\Program.cs",
+              "RelativeDocumentMoniker": "CorrectionExercice1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\CorrectionExercice1\\Program.cs*",
+              "RelativeToolTip": "CorrectionExercice1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:12:35.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs",
               "RelativeDocumentMoniker": "DemoRecap\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs",
               "RelativeToolTip": "DemoRecap\\Program.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAwwJoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAPEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T08:36:52.547Z",
               "EditorCaption": ""

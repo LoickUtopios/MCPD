@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\bin\Debug\net9.0\CorrectionExercice1.exe
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\bin\Debug\net9.0\CorrectionExercice1.deps.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\bin\Debug\net9.0\CorrectionExercice1.runtimeconfig.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\bin\Debug\net9.0\CorrectionExercice1.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\bin\Debug\net9.0\CorrectionExercice1.pdb
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\obj\Debug\net9.0\CorrectionExercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\obj\Debug\net9.0\CorrectionExercice1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\obj\Debug\net9.0\CorrectionExercice1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\obj\Debug\net9.0\CorrectionExercice1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\obj\Debug\net9.0\CorrectionExercice1.sourcelink.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\obj\Debug\net9.0\CorrectionExercice1.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\obj\Debug\net9.0\refint\CorrectionExercice1.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\obj\Debug\net9.0\CorrectionExercice1.pdb
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\obj\Debug\net9.0\CorrectionExercice1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\CorrectionExercice1\obj\Debug\net9.0\ref\CorrectionExercice1.dll
