@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\bin\Debug\net9.0\DemoRecap.exe
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\bin\Debug\net9.0\DemoRecap.deps.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\bin\Debug\net9.0\DemoRecap.runtimeconfig.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\bin\Debug\net9.0\DemoRecap.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\bin\Debug\net9.0\DemoRecap.pdb
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\obj\Debug\net9.0\DemoRecap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\obj\Debug\net9.0\DemoRecap.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\obj\Debug\net9.0\DemoRecap.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\obj\Debug\net9.0\DemoRecap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\obj\Debug\net9.0\DemoRecap.sourcelink.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\obj\Debug\net9.0\DemoRecap.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\obj\Debug\net9.0\refint\DemoRecap.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\obj\Debug\net9.0\DemoRecap.pdb
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\obj\Debug\net9.0\DemoRecap.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoRecap\obj\Debug\net9.0\ref\DemoRecap.dll
