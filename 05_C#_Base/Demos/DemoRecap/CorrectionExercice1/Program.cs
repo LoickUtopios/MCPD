@@ -16,10 +16,9 @@ int proposition;
 
 do
 {
-    Console.WriteLine("Deviner le nombre entre 1 et 10 : "); 
-    string? saisie = Console.ReadLine();
+    Console.WriteLine("Deviner le nombre entre 1 et 10 : "); string? saisie = Console.ReadLine();
 
-    if(!int.TryParse(saisie, out proposition))
+    if (!int.TryParse(saisie, out proposition))
     {
         Console.WriteLine("Saisie invalide. Entrer un entier :");
         saisie = Console.ReadLine();
@@ -27,13 +26,11 @@ do
 
     if (proposition == nombreSecretRandom)
     {
-        Console.WriteLine("Bravo, nombre trouvé !");
-        break;
+        Console.WriteLine("Bravo, nombre trouvé !"); break;
     }
     else if (proposition < nombreSecretRandom)
         Console.WriteLine("Plus grand !");
     else
         Console.WriteLine("Plus petit !");
-
-} while(true);
+} while (true);
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoTableau")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5090225a37557746ce21bf472cb655d2e383fc57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5505f9d022b5986f3294f701a8d8e3688ca030cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoTableau")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoTableau")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

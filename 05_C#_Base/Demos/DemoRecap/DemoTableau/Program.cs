@@ -54,7 +54,7 @@ float[] valeur2 = { 2.5f, 3.0f, 5.0f, 4.4f };
 
 Console.WriteLine("Taille de 'valeur' avec .Length :" + valeur.Length);
 
-Console.WriteLine("Tableau 'valeur' : ");
+Console.WriteLine("Tableau 'valeur2' : ");
 Console.WriteLine(valeur2[0]);
 Console.WriteLine(valeur2[1]);
 Console.WriteLine(valeur2[2]);
@@ -131,5 +131,7 @@ foreach (int note in notes)
 {
     Console.WriteLine(note);
 
+    // note = 5;  N'est pas possible car foreach ne permet que la lecture de la donnée.
 }
+
 Console.WriteLine();
