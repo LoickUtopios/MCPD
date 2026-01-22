@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\bin\Debug\net9.0\DemoTableau.exe
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\bin\Debug\net9.0\DemoTableau.deps.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\bin\Debug\net9.0\DemoTableau.runtimeconfig.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\bin\Debug\net9.0\DemoTableau.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\bin\Debug\net9.0\DemoTableau.pdb
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\obj\Debug\net9.0\DemoTableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\obj\Debug\net9.0\DemoTableau.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\obj\Debug\net9.0\DemoTableau.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\obj\Debug\net9.0\DemoTableau.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\obj\Debug\net9.0\DemoTableau.sourcelink.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\obj\Debug\net9.0\DemoTableau.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\obj\Debug\net9.0\refint\DemoTableau.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\obj\Debug\net9.0\DemoTableau.pdb
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\obj\Debug\net9.0\DemoTableau.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoTableau\obj\Debug\net9.0\ref\DemoTableau.dll

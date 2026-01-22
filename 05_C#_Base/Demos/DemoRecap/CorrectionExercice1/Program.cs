@@ -1,45 +1,39 @@
-﻿//## Exercice — Message selon la note (switch expression)
+﻿//# Exercice 11 Deviner un nombre (do…while)
 
-//### Sujet
+//Le programme choisit un nombre fixe (par exemple `7`).
+//L’utilisateur doit deviner ce nombre.
 
-//Demander une note entière entre 0 et 20.
+//- Tant que l’utilisateur n’a pas trouvé le bon nombre, le programme redemande une saisie.
+//- Quand le nombre est trouvé, afficher `Bravo, nombre trouvé !`.
 
-//- Si la saisie est invalide ou hors intervalle → `Note invalide`
-//- Sinon produire un message **avec une switch expression** :
+const int nombreSecret = 7;
 
-//Barème(différent de la démo) :
+// Aléatoire
+Random rdm = new Random();
+int nombreSecretRandom = rdm.Next(1, 10);
 
-//-18..20 → `Excellent`
-//- 15..17 → `Tres bien`
-//- 12..14 → `Bien`
-//- 10..11 → `Passable`
-//- 0..9 → `Insuffisant`
+int proposition;
 
-//Afficher le message.
-
-
-//Demander une note entière entre 0 et 20.
-using System.Runtime.CompilerServices;
-
-Console.WriteLine("Veuillez entrer une note : "); 
-string inputStr = Console.ReadLine();
-
-string message; 
-bool noteOk = int.TryParse(inputStr, out int note);
-
-if (!noteOk)
-    message = "Note invalide";
-else
+do
 {
-    message = note switch
-    {
-        >= 18 and <= 20 => "Excellent", 
-        >= 15 and <= 17 => "Tres bien",
-        >= 12 and <= 14 => "Bien",
-        >= 10 and <= 11 => "Passable",
-        >= 0 and <= 9 => "Insuffisant",
-        _ => "Note invalide"
-    };
-}
+    Console.WriteLine("Deviner le nombre entre 1 et 10 : "); 
+    string? saisie = Console.ReadLine();
 
-Console.WriteLine($"Votre note {note} : {message}" );
+    if(!int.TryParse(saisie, out proposition))
+    {
+        Console.WriteLine("Saisie invalide. Entrer un entier :");
+        saisie = Console.ReadLine();
+    }
+
+    if (proposition == nombreSecretRandom)
+    {
+        Console.WriteLine("Bravo, nombre trouvé !");
+        break;
+    }
+    else if (proposition < nombreSecretRandom)
+        Console.WriteLine("Plus grand !");
+    else
+        Console.WriteLine("Plus petit !");
+
+} while(true);
+
