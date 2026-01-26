@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CDE3735-208F-4E86-A8E5-F41EC4A7D0BC}|DemoTuples\\DemoTuples.csproj|c:\\users\\admin\\desktop\\mcdp\\05_c#_base\\demos\\demorecap\\demotuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDE3735-208F-4E86-A8E5-F41EC4A7D0BC}|DemoTuples\\DemoTuples.csproj|solutionrelative:demotuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43A37D26-018D-4117-B50C-F97A34864E19}|DemoTableau\\DemoTableau.csproj|c:\\users\\admin\\desktop\\mcdp\\05_c#_base\\demos\\demorecap\\demotableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43A37D26-018D-4117-B50C-F97A34864E19}|DemoTableau\\DemoTableau.csproj|solutionrelative:demotableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37294822-7E7C-46E1-A023-76864423DC9E}|DemoFonction\\DemoFonction.csproj|c:\\users\\admin\\desktop\\mcdp\\05_c#_base\\demos\\demorecap\\demofonction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37294822-7E7C-46E1-A023-76864423DC9E}|DemoFonction\\DemoFonction.csproj|solutionrelative:demofonction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA625545-A216-46D3-B1CA-F51DBFB06B2B}|CorrectionExercice1\\CorrectionExercice1.csproj|c:\\users\\admin\\desktop\\mcdp\\05_c#_base\\demos\\demorecap\\correctionexercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA625545-A216-46D3-B1CA-F51DBFB06B2B}|CorrectionExercice1\\CorrectionExercice1.csproj|solutionrelative:correctionexercice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{43A37D26-018D-4117-B50C-F97A34864E19}|DemoTableau\\DemoTableau.csproj|c:\\users\\admin\\desktop\\mcdp\\05_c#_base\\demos\\demorecap\\demotableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A37D26-018D-4117-B50C-F97A34864E19}|DemoTableau\\DemoTableau.csproj|solutionrelative:demotableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF0C9CEB-4ADC-41B9-9327-F859723BF970}|DemoRecap\\DemoRecap.csproj|c:\\users\\admin\\desktop\\mcdp\\05_c#_base\\demos\\demorecap\\demorecap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF0C9CEB-4ADC-41B9-9327-F859723BF970}|DemoRecap\\DemoRecap.csproj|solutionrelative:demorecap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDE3735-208F-4E86-A8E5-F41EC4A7D0BC}|DemoTuples\\DemoTuples.csproj|c:\\users\\admin\\desktop\\mcdp\\05_c#_base\\demos\\demorecap\\demotuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDE3735-208F-4E86-A8E5-F41EC4A7D0BC}|DemoTuples\\DemoTuples.csproj|solutionrelative:demotuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,37 +36,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoFonction\\Program.cs",
+              "RelativeDocumentMoniker": "DemoFonction\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoFonction\\Program.cs",
+              "RelativeToolTip": "DemoFonction\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:13:19.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoTuples\\Program.cs",
               "RelativeDocumentMoniker": "DemoTuples\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoTuples\\Program.cs*",
-              "RelativeToolTip": "DemoTuples\\Program.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswC8AAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoTuples\\Program.cs",
+              "RelativeToolTip": "DemoTuples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:31:30.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoTableau\\Program.cs",
               "RelativeDocumentMoniker": "DemoTableau\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoTableau\\Program.cs",
               "RelativeToolTip": "DemoTableau\\Program.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAQwIUAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwIIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T13:14:43.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\CorrectionExercice1\\Program.cs",
               "RelativeDocumentMoniker": "CorrectionExercice1\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\CorrectionExercice1\\Program.cs",
               "RelativeToolTip": "CorrectionExercice1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T11:12:35.463Z",
               "EditorCaption": ""
@@ -75,9 +92,10 @@
               "RelativeDocumentMoniker": "DemoRecap\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs",
               "RelativeToolTip": "DemoRecap\\Program.cs",
-              "ViewState": "AgIAAIwBAAAAAAAAAADwv7gAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAALgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:36:52.547Z"
+              "WhenOpened": "2026-01-21T08:36:52.547Z",
+              "EditorCaption": ""
             }
           ]
         }

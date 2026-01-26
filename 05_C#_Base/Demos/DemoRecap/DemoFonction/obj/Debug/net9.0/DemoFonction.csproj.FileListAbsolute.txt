@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\bin\Debug\net9.0\DemoFonction.exe
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\bin\Debug\net9.0\DemoFonction.deps.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\bin\Debug\net9.0\DemoFonction.runtimeconfig.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\bin\Debug\net9.0\DemoFonction.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\bin\Debug\net9.0\DemoFonction.pdb
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\obj\Debug\net9.0\DemoFonction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\obj\Debug\net9.0\DemoFonction.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\obj\Debug\net9.0\DemoFonction.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\obj\Debug\net9.0\DemoFonction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\obj\Debug\net9.0\DemoFonction.sourcelink.json
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\obj\Debug\net9.0\DemoFonction.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\obj\Debug\net9.0\refint\DemoFonction.dll
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\obj\Debug\net9.0\DemoFonction.pdb
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\obj\Debug\net9.0\DemoFonction.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MCDP\05_C#_Base\Demos\DemoRecap\DemoFonction\obj\Debug\net9.0\ref\DemoFonction.dll

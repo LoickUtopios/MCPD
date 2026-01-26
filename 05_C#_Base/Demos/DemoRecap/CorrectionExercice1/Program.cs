@@ -1,42 +1,32 @@
-﻿//## Exercice FizzBuzz
+﻿//# Exercice 19
 
-//Écrire un programme qui affiche les nombres de **1 à 30**.
+//Un tableau contient une suite de nombres entiers.
 
-//Pour chaque nombre :
+//Le programme doit vérifier si le tableau respecte **la règle suivante** :
 
-//-Si le nombre est divisible par **3**, afficher `Fizz`
-//- Si le nombre est divisible par **5**, afficher `Buzz`
-//- Si le nombre est divisible par **3 et par 5**, afficher `FizzBuzz`
-//- Sinon, afficher le nombre
+//> Chaque nombre doit être **strictement supérieur** au précédent.
 
-/* // Méthode 1 
-for(int i = 1; i <= 30; i++)
+//- Si la règle est respectée, afficher :
+//  `"La suite est strictement croissante"`
+//-Sinon, afficher:
+//  `"La suite n'est pas strictement croissante"`
+
+int[] nbs = { 1, 2, 3, 2, 5, 6, 7, 8, 9 };
+
+bool estCroissante = true;
+
+for(int i = 0; i < nbs.Length - 1; i++)
 {
-    if (i % 5 == 0 && i % 3 == 0)
-        Console.WriteLine("FizzBuzz");
-    else if (i % 5 == 0)
-        Console.WriteLine("Buzz");
-    else if (i % 3 == 0)
-        Console.WriteLine("Fizz");
-    else
-        Console.WriteLine(i); 
+    if(nbs[i] > nbs[i + 1])
+    {
+        Console.WriteLine("La suite n'est pas strictement croissante");
+        estCroissante = false;
+        break;
+    }
+
 }
-*/
 
-// Méthode 2 
-string result;
-for (int i = 1; i <= 30; i++)
+if (estCroissante)
 {
-    result = "";
-
-    if (i % 3 == 0)
-        result += "Fizz";
-
-    if (i % 5 == 0)
-        result += "Buzz";
-
-    if (result == "")
-        result += i; 
-
-    Console.WriteLine(result);
+    Console.WriteLine("La suite est strictement croissante.");
 }
