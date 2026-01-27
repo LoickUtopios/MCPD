@@ -14,6 +14,12 @@ namespace DemoClasse.Classes
         private string _marque;
         private string _model;
 
+        // Attribut static
+        private static int _nbVoiture = 0;
+
+        // Propriété static
+        public static int NbVoiture { get => _nbVoiture; set => _nbVoiture = value; }
+
         // Propriétés
         // Get permet la récupération de donnée
         // Set est uniqument pour la modification de donnée
@@ -33,8 +39,13 @@ namespace DemoClasse.Classes
         public bool IsStarted { get; set; } = false;
 
         // Constructeur
-        public Voiture() { }
-        public Voiture(int nbPneu, int nbPorte, string marque, string model)
+        public Voiture() 
+        { 
+            NbVoiture++; 
+        }
+        public Voiture(string model, string marque)
+            : this (4, 5, model, marque) {  }
+        public Voiture(int nbPneu, int nbPorte, string marque, string model): this()
         {
             _nbPneu = nbPneu; // Attribut accéder directement (public)
             NbPorte = nbPorte; // Attribut accéder via leur propriété
@@ -55,6 +66,19 @@ namespace DemoClasse.Classes
                 Console.WriteLine("Crrrrrrrr la voiture est déjà démarré !!!!");
             }
             
+        }
+
+        public static void AfficherNbVoiture()
+        {
+            Console.WriteLine("Vous avez construit " + NbVoiture + " voitures");
+        } 
+
+        public static void Presentation(string model)
+        {
+            Console.WriteLine("Votre modele " + model + " est super !!"); // Utilise un parametre
+
+            // Erreur, aucun accès à une variable d'instance en static  
+            // Console.WriteLine("Votre modele " + Model + " est super !!"); 
         }
 
         public override string ToString()
