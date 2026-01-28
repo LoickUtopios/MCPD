@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\bin\Debug\net9.0\Exercice8.exe
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\bin\Debug\net9.0\Exercice8.deps.json
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\bin\Debug\net9.0\Exercice8.runtimeconfig.json
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\bin\Debug\net9.0\Exercice8.dll
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\bin\Debug\net9.0\Exercice8.pdb
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\obj\Debug\net9.0\Exercice8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\obj\Debug\net9.0\Exercice8.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\obj\Debug\net9.0\Exercice8.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\obj\Debug\net9.0\Exercice8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\obj\Debug\net9.0\Exercice8.sourcelink.json
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\obj\Debug\net9.0\Exercice8.dll
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\obj\Debug\net9.0\refint\Exercice8.dll
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\obj\Debug\net9.0\Exercice8.pdb
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\obj\Debug\net9.0\Exercice8.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Exercices\Corrections\CorrectionExercices\Exercice8\obj\Debug\net9.0\ref\Exercice8.dll
