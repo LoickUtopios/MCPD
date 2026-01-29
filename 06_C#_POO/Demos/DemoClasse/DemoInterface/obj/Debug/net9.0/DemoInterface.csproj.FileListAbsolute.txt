@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\bin\Debug\net9.0\DemoInterface.exe
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\bin\Debug\net9.0\DemoInterface.deps.json
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\bin\Debug\net9.0\DemoInterface.runtimeconfig.json
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\bin\Debug\net9.0\DemoInterface.dll
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\bin\Debug\net9.0\DemoInterface.pdb
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\obj\Debug\net9.0\DemoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\obj\Debug\net9.0\DemoInterface.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\obj\Debug\net9.0\DemoInterface.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\obj\Debug\net9.0\DemoInterface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\obj\Debug\net9.0\DemoInterface.sourcelink.json
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\obj\Debug\net9.0\DemoInterface.dll
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\obj\Debug\net9.0\refint\DemoInterface.dll
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\obj\Debug\net9.0\DemoInterface.pdb
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\obj\Debug\net9.0\DemoInterface.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoInterface\obj\Debug\net9.0\ref\DemoInterface.dll

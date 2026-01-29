@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Exercice11.Enum;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,10 +9,10 @@ namespace Exercice11.Classes
 {
     internal class Scientifique : Travailleur
     {
-        public string Type { get; set; }
-        public string Discipline { get; set; }
+        public TypeEnum Type { get; set; }
+        public DisciplineEnum Discipline { get; set; }
 
-        public Scientifique(string nom, string prenom, string telephone, string email, string entrepriseNom, string entrepriseAdresse, string telephonePro, string type, string discipline)
+        public Scientifique(string nom, string prenom, string telephone, string email, string entrepriseNom, string entrepriseAdresse, string telephonePro, TypeEnum type, DisciplineEnum discipline)
             : base(nom, prenom, telephone, email, entrepriseNom, entrepriseAdresse, telephonePro)
         {
             Type = type;
