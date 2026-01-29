@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using Exercice10.Classes;
+
+Rectangle rec = new Rectangle("Rectangle", 10, 5);
+Cercle cer = new Cercle("Cercle", 5);
+
+rec.Infos();
+cer.Infos();
