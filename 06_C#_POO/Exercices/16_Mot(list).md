@@ -1,4 +1,4 @@
-# Exercice 20
+# Exercice 16
 
 Écrire un programme qui :
 

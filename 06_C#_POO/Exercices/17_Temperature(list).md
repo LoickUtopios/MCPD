@@ -1,4 +1,4 @@
-# Exercice 22
+# Exercice 17
 
 Un programme doit enregistrer des températures saisies par l’utilisateur.
 
