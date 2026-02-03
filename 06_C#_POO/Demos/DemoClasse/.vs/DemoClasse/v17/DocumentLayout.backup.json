@@ -3,52 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demointerface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|solutionrelative:demointerface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}|DemoCollection\\DemoCollection.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\democollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}|DemoCollection\\DemoCollection.csproj|solutionrelative:democollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demointerface\\classes\\canard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|solutionrelative:demointerface\\classes\\canard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}|DemoCollection\\DemoCollection.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\democollection\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}|DemoCollection\\DemoCollection.csproj|solutionrelative:democollection\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demointerface\\classes\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|solutionrelative:demointerface\\classes\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demointerface\\interfaces\\ivolant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|solutionrelative:demointerface\\interfaces\\ivolant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demointerface\\interfaces\\iovipare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|solutionrelative:demointerface\\interfaces\\iovipare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demointerface\\interfaces\\ietrevivant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|solutionrelative:demointerface\\interfaces\\ietrevivant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demointerface\\demointerface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5C975CF7-81B0-4C37-9B2E-8E2153F254FF}|DemoInterface\\DemoInterface.csproj|solutionrelative:demointerface\\demointerface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{374413EC-49AA-4444-905A-696DC7CA3872}|DemoAbstract\\DemoAbstract.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demoabstract\\classes\\coyote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{374413EC-49AA-4444-905A-696DC7CA3872}|DemoAbstract\\DemoAbstract.csproj|solutionrelative:demoabstract\\classes\\coyote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{374413EC-49AA-4444-905A-696DC7CA3872}|DemoAbstract\\DemoAbstract.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demoabstract\\classes\\louveteau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{374413EC-49AA-4444-905A-696DC7CA3872}|DemoAbstract\\DemoAbstract.csproj|solutionrelative:demoabstract\\classes\\louveteau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{374413EC-49AA-4444-905A-696DC7CA3872}|DemoAbstract\\DemoAbstract.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demoabstract\\classes\\loup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{374413EC-49AA-4444-905A-696DC7CA3872}|DemoAbstract\\DemoAbstract.csproj|solutionrelative:demoabstract\\classes\\loup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{374413EC-49AA-4444-905A-696DC7CA3872}|DemoAbstract\\DemoAbstract.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demoabstract\\classes\\canide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{374413EC-49AA-4444-905A-696DC7CA3872}|DemoAbstract\\DemoAbstract.csproj|solutionrelative:demoabstract\\classes\\canide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{374413EC-49AA-4444-905A-696DC7CA3872}|DemoAbstract\\DemoAbstract.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demoabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{374413EC-49AA-4444-905A-696DC7CA3872}|DemoAbstract\\DemoAbstract.csproj|solutionrelative:demoabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}|DemoCollection\\DemoCollection.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\democollection\\democollection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}|DemoCollection\\DemoCollection.csproj|solutionrelative:democollection\\democollection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,159 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Canard.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Classes\\Canard.cs",
-              "RelativeDocumentMoniker": "DemoInterface\\Classes\\Canard.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Classes\\Canard.cs",
-              "RelativeToolTip": "DemoInterface\\Classes\\Canard.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "DemoCollection\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Classes\\User.cs",
+              "RelativeToolTip": "DemoCollection\\Classes\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:15:58.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IOvipare.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Interfaces\\IOvipare.cs",
-              "RelativeDocumentMoniker": "DemoInterface\\Interfaces\\IOvipare.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Interfaces\\IOvipare.cs",
-              "RelativeToolTip": "DemoInterface\\Interfaces\\IOvipare.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:15:41.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEtreVivant.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Interfaces\\IEtreVivant.cs",
-              "RelativeDocumentMoniker": "DemoInterface\\Interfaces\\IEtreVivant.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Interfaces\\IEtreVivant.cs",
-              "RelativeToolTip": "DemoInterface\\Interfaces\\IEtreVivant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:14:40.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IVolant.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Interfaces\\IVolant.cs",
-              "RelativeDocumentMoniker": "DemoInterface\\Interfaces\\IVolant.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Interfaces\\IVolant.cs",
-              "RelativeToolTip": "DemoInterface\\Interfaces\\IVolant.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:13:31.831Z",
+              "WhenOpened": "2026-02-03T09:51:17.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Avion.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Classes\\Avion.cs",
-              "RelativeDocumentMoniker": "DemoInterface\\Classes\\Avion.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Classes\\Avion.cs",
-              "RelativeToolTip": "DemoInterface\\Classes\\Avion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:12:50.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DemoInterface",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\DemoInterface.csproj",
-              "RelativeDocumentMoniker": "DemoInterface\\DemoInterface.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\DemoInterface.csproj",
-              "RelativeToolTip": "DemoInterface\\DemoInterface.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "DemoCollection",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\DemoCollection.csproj",
+              "RelativeDocumentMoniker": "DemoCollection\\DemoCollection.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\DemoCollection.csproj*",
+              "RelativeToolTip": "DemoCollection\\DemoCollection.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-29T13:11:57.033Z",
+              "WhenOpened": "2026-02-03T09:51:00.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Program.cs",
-              "RelativeDocumentMoniker": "DemoInterface\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoInterface\\Program.cs*",
-              "RelativeToolTip": "DemoInterface\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Program.cs",
+              "RelativeDocumentMoniker": "DemoCollection\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Program.cs",
+              "RelativeToolTip": "DemoCollection\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:11:50.546Z",
+              "WhenOpened": "2026-02-03T09:14:12.145Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Louveteau.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoAbstract\\Classes\\Louveteau.cs",
-              "RelativeDocumentMoniker": "DemoAbstract\\Classes\\Louveteau.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoAbstract\\Classes\\Louveteau.cs",
-              "RelativeToolTip": "DemoAbstract\\Classes\\Louveteau.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:36:09.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Coyote.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoAbstract\\Classes\\Coyote.cs",
-              "RelativeDocumentMoniker": "DemoAbstract\\Classes\\Coyote.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoAbstract\\Classes\\Coyote.cs",
-              "RelativeToolTip": "DemoAbstract\\Classes\\Coyote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:27:17.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Loup.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoAbstract\\Classes\\Loup.cs",
-              "RelativeDocumentMoniker": "DemoAbstract\\Classes\\Loup.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoAbstract\\Classes\\Loup.cs",
-              "RelativeToolTip": "DemoAbstract\\Classes\\Loup.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:17:06.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Canide.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoAbstract\\Classes\\Canide.cs",
-              "RelativeDocumentMoniker": "DemoAbstract\\Classes\\Canide.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoAbstract\\Classes\\Canide.cs",
-              "RelativeToolTip": "DemoAbstract\\Classes\\Canide.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:12:39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoAbstract\\Program.cs",
-              "RelativeDocumentMoniker": "DemoAbstract\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoAbstract\\Program.cs",
-              "RelativeToolTip": "DemoAbstract\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:12:18.946Z"
             }
           ]
         }
