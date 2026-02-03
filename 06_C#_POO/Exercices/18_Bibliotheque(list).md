@@ -2,7 +2,16 @@
 
 ## Sujet
 
-1. Créer une classe **Bibliotheque**
+1. Créer une classe **Livre**
+
+La classe `Livre` contient :
+
+* Un numéro (int)
+* Un titre (string)
+* Un auteur (string)
+* Un nombre d’exemplaires disponibles (int)
+
+2. Créer une classe **Bibliotheque**
 
 La classe `Bibliotheque` contient :
 
@@ -12,15 +21,6 @@ La classe `Bibliotheque` contient :
   * Supprimer un livre par son numéro
   * Afficher tous les livres
   * Rechercher un livre par son titre
-
-2. Créer une classe **Livre**
-
-La classe `Livre` contient :
-
-* Un numéro (int)
-* Un titre (string)
-* Un auteur (string)
-* Un nombre d’exemplaires disponibles (int)
 
 3. Créer un IHM Console (simple) permettant :
 

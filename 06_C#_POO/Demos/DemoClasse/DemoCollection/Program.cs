@@ -30,7 +30,7 @@ listeDeStrings.Add("Tata");
 listeDeStrings.Add("Titi");
 
 // On peut accéder au élément d'une liste de la même manière qu'un tableau (via son index) 
-listeDeStrings[0] = "Toto Tolto 9";
+listeDeStrings[0] = "Toto Tolto 9";   
 
 foreach (string str in listeDeStrings)
 {
@@ -71,5 +71,65 @@ toutLesUtilisateurs.Add(new User(3, "Marlo", "marlo@lePacifique.com"));
 
 foreach (User user in toutLesUtilisateurs)
 {
-    user.SePresenter();    
+    user.SePresenter(); // Utilise la méthode de chaque utilisateur dans la liste
 }
+
+/* HASHSET
+ * -------------------
+ * Un Hashset est une liste qui ne contient AUCUN doublon.
+ * 
+ * Utilisation : Elle peut être utilisé dans les cas ou l'on ne veut une information qu'une fois
+ * Exemple : Tout les mails des employés.
+ * 
+ */
+
+HashSet<string> noms =  new HashSet<string>();
+noms.Add("Arnaud");
+noms.Add("Arnaud"); // Ignoré à l'ajout 
+noms.Add("Bob");
+noms.Add("Bob"); // Ignoré à l'ajout 
+
+Console.WriteLine("Contenue du HashSet :");
+foreach(string nom in noms)
+{
+    Console.WriteLine(nom);
+}
+
+/* SortedSet / SortedList / SortedDictionnary
+ * -------------------
+ * Une collection Sorted, va trié automatiquement la liste à chaque insertion.
+ * 
+ * Attention, car elle demande plus de performance qu'une liste standard.
+ * 
+ */
+
+SortedSet<string> listeTrieDeStr = new SortedSet<string>() {"Zoo", "Barbare", "Horloge"};
+Console.WriteLine("Contenue du SortedSet :");
+
+foreach (string str in listeTrieDeStr)
+    Console.WriteLine(str);
+
+/* Dictionary
+ * -------------------
+ * Un dictionnaire est une collection dont l'index est également donnée.
+ * Il y a donc une paire clé-valeur se forme.
+ * 
+ */
+
+// Pour déclarer un dictionnaire, nous devons fournir 2 type. 
+// Le type pour la clé et un type pour la valeur.
+Dictionary<string, int> ageDesPersonnes = new Dictionary<string, int>();
+ageDesPersonnes["Victor"] = 20;
+ageDesPersonnes["Loick"] = 30;
+
+// Accès à une valeur via la clé
+Console.WriteLine("Age de Victor :" + ageDesPersonnes["Victor"]);
+
+// Pour parcourir, la totalité d'un dictionnaire, nous devons récupérer la paire clé-valeur dans un type var
+foreach (var paire in ageDesPersonnes)
+{
+    // Il ne reste plus qu'a afficher l'élément en question.
+    Console.WriteLine($"{paire.Key} => {paire.Value}");
+}
+
+

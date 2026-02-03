@@ -3,68 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice15\\classes\\guerriermage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\classes\\guerriermage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice18\\classes\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|solutionrelative:exercice18\\classes\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice15\\classes\\guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\classes\\guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice18\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|solutionrelative:exercice18\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice15\\classes\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\classes\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|solutionrelative:exercice18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice15\\classes\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\classes\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice15\\classes\\arme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\classes\\arme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice15\\interfaces\\imagie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\interfaces\\imagie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice15\\interfaces\\iattaquesp\u00E9cial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEC44CB-38F4-4BCE-B6DC-420E67A01583}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\interfaces\\iattaquesp\u00E9cial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5EB5463-0816-47A1-8BF0-C63183EC53DD}|Exercice14\\Exercice14.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5EB5463-0816-47A1-8BF0-C63183EC53DD}|Exercice14\\Exercice14.csproj|solutionrelative:exercice14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5EB5463-0816-47A1-8BF0-C63183EC53DD}|Exercice14\\Exercice14.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice14\\classes\\lettre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5EB5463-0816-47A1-8BF0-C63183EC53DD}|Exercice14\\Exercice14.csproj|solutionrelative:exercice14\\classes\\lettre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5EB5463-0816-47A1-8BF0-C63183EC53DD}|Exercice14\\Exercice14.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice14\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5EB5463-0816-47A1-8BF0-C63183EC53DD}|Exercice14\\Exercice14.csproj|solutionrelative:exercice14\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5EB5463-0816-47A1-8BF0-C63183EC53DD}|Exercice14\\Exercice14.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice14\\classes\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5EB5463-0816-47A1-8BF0-C63183EC53DD}|Exercice14\\Exercice14.csproj|solutionrelative:exercice14\\classes\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5EB5463-0816-47A1-8BF0-C63183EC53DD}|Exercice14\\Exercice14.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice14\\enum\\statutlettreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5EB5463-0816-47A1-8BF0-C63183EC53DD}|Exercice14\\Exercice14.csproj|solutionrelative:exercice14\\enum\\statutlettreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9148A25-538E-4CBE-A9C2-AC28137CA0BC}|Exercice9\\Exercice9.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice9\\classes\\commercial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9148A25-538E-4CBE-A9C2-AC28137CA0BC}|Exercice9\\Exercice9.csproj|solutionrelative:exercice9\\classes\\commercial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9148A25-538E-4CBE-A9C2-AC28137CA0BC}|Exercice9\\Exercice9.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice9\\classes\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9148A25-538E-4CBE-A9C2-AC28137CA0BC}|Exercice9\\Exercice9.csproj|solutionrelative:exercice9\\classes\\salarie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9148A25-538E-4CBE-A9C2-AC28137CA0BC}|Exercice9\\Exercice9.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9148A25-538E-4CBE-A9C2-AC28137CA0BC}|Exercice9\\Exercice9.csproj|solutionrelative:exercice9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice18\\exercice18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|solutionrelative:exercice18\\exercice18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,208 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GuerrierMage.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Classes\\GuerrierMage.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Classes\\GuerrierMage.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Classes\\GuerrierMage.cs",
-              "RelativeToolTip": "Exercice15\\Classes\\GuerrierMage.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T15:50:15.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mage.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Classes\\Mage.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Classes\\Mage.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Classes\\Mage.cs",
-              "RelativeToolTip": "Exercice15\\Classes\\Mage.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvxgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T15:46:53.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Guerrier.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Classes\\Guerrier.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Classes\\Guerrier.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Classes\\Guerrier.cs",
-              "RelativeToolTip": "Exercice15\\Classes\\Guerrier.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvxEAAAApAAAAAAAAAA==",
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Classes\\Livre.cs",
+              "RelativeDocumentMoniker": "Exercice18\\Classes\\Livre.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Classes\\Livre.cs",
+              "RelativeToolTip": "Exercice18\\Classes\\Livre.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T15:32:31.911Z",
+              "WhenOpened": "2026-02-03T15:04:18.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMagie.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Interfaces\\IMagie.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Interfaces\\IMagie.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Interfaces\\IMagie.cs",
-              "RelativeToolTip": "Exercice15\\Interfaces\\IMagie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Bibliotheque.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Classes\\Bibliotheque.cs",
+              "RelativeDocumentMoniker": "Exercice18\\Classes\\Bibliotheque.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Classes\\Bibliotheque.cs",
+              "RelativeToolTip": "Exercice18\\Classes\\Bibliotheque.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAmwGUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T15:30:49.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAttaqueSp\u00E9cial.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Interfaces\\IAttaqueSp\u00E9cial.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Interfaces\\IAttaqueSp\u00E9cial.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Interfaces\\IAttaqueSp\u00E9cial.cs",
-              "RelativeToolTip": "Exercice15\\Interfaces\\IAttaqueSp\u00E9cial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T15:30:36.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Arme.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Classes\\Arme.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Classes\\Arme.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Classes\\Arme.cs",
-              "RelativeToolTip": "Exercice15\\Classes\\Arme.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA8wBwAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T15:26:01.098Z",
+              "WhenOpened": "2026-02-03T15:04:11.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Personnage.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Classes\\Personnage.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Classes\\Personnage.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Classes\\Personnage.cs",
-              "RelativeToolTip": "Exercice15\\Classes\\Personnage.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswBwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T15:22:22.854Z",
+              "Title": "Exercice18",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Exercice18.csproj",
+              "RelativeDocumentMoniker": "Exercice18\\Exercice18.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Exercice18.csproj",
+              "RelativeToolTip": "Exercice18\\Exercice18.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T15:03:49.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice15\\Program.cs",
-              "RelativeToolTip": "Exercice15\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDMAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice18\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Program.cs",
+              "RelativeToolTip": "Exercice18\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T15:21:31.829Z",
+              "WhenOpened": "2026-02-03T13:37:34.81Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StatutLettreEnum.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice14\\Enum\\StatutLettreEnum.cs",
-              "RelativeDocumentMoniker": "Exercice14\\Enum\\StatutLettreEnum.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice14\\Enum\\StatutLettreEnum.cs",
-              "RelativeToolTip": "Exercice14\\Enum\\StatutLettreEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T13:36:05.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Lettre.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice14\\Classes\\Lettre.cs",
-              "RelativeDocumentMoniker": "Exercice14\\Classes\\Lettre.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice14\\Classes\\Lettre.cs",
-              "RelativeToolTip": "Exercice14\\Classes\\Lettre.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T13:35:13.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice14\\Classes\\User.cs",
-              "RelativeDocumentMoniker": "Exercice14\\Classes\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice14\\Classes\\User.cs",
-              "RelativeToolTip": "Exercice14\\Classes\\User.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T13:32:49.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Adresse.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice14\\Classes\\Adresse.cs",
-              "RelativeDocumentMoniker": "Exercice14\\Classes\\Adresse.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice14\\Classes\\Adresse.cs",
-              "RelativeToolTip": "Exercice14\\Classes\\Adresse.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T13:29:07.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice14\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice14\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice14\\Program.cs",
-              "RelativeToolTip": "Exercice14\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T13:28:36.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Commercial.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice9\\Classes\\Commercial.cs",
-              "RelativeDocumentMoniker": "Exercice9\\Classes\\Commercial.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice9\\Classes\\Commercial.cs",
-              "RelativeToolTip": "Exercice9\\Classes\\Commercial.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA8wCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T10:53:20.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Salarie.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice9\\Classes\\Salarie.cs",
-              "RelativeDocumentMoniker": "Exercice9\\Classes\\Salarie.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice9\\Classes\\Salarie.cs",
-              "RelativeToolTip": "Exercice9\\Classes\\Salarie.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T10:52:54.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice9\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice9\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice9\\Program.cs",
-              "RelativeToolTip": "Exercice9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T10:51:50.924Z"
             }
           ]
         }

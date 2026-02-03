@@ -32,23 +32,21 @@
               "RelativeDocumentMoniker": "DemoCollection\\Classes\\User.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Classes\\User.cs",
               "RelativeToolTip": "DemoCollection\\Classes\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T09:51:17.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T09:51:17.095Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DemoCollection",
+              "Title": "DemoCollection.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\DemoCollection.csproj",
               "RelativeDocumentMoniker": "DemoCollection\\DemoCollection.csproj",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\DemoCollection.csproj",
               "RelativeToolTip": "DemoCollection\\DemoCollection.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-03T09:51:00.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T09:51:00.935Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "DemoCollection\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Program.cs",
               "RelativeToolTip": "DemoCollection\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAmwEkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAYwIIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T09:14:12.145Z",
               "EditorCaption": ""
