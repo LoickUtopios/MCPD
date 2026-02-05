@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DemoInterface")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DemoException")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba73c2bfe0de0122d3da7dfed9819e553d3dd231")]
-[assembly: System.Reflection.AssemblyProductAttribute("DemoInterface")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DemoInterface")]
+[assembly: System.Reflection.AssemblyProductAttribute("DemoException")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DemoException")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoInterface", "DemoInterf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCollection", "DemoCollection\DemoCollection.csproj", "{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoException", "DemoException\DemoException.csproj", "{7A40A49C-2DBA-4685-B584-A643C25282AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A40A49C-2DBA-4685-B584-A643C25282AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A40A49C-2DBA-4685-B584-A643C25282AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A40A49C-2DBA-4685-B584-A643C25282AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A40A49C-2DBA-4685-B584-A643C25282AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

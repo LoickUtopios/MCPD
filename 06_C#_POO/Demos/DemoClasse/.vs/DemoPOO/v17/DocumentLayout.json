@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A40A49C-2DBA-4685-B584-A643C25282AB}|DemoException\\DemoException.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demoexception\\exceptions\\ageinvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A40A49C-2DBA-4685-B584-A643C25282AB}|DemoException\\DemoException.csproj|solutionrelative:demoexception\\exceptions\\ageinvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A40A49C-2DBA-4685-B584-A643C25282AB}|DemoException\\DemoException.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demoexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A40A49C-2DBA-4685-B584-A643C25282AB}|DemoException\\DemoException.csproj|solutionrelative:demoexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A40A49C-2DBA-4685-B584-A643C25282AB}|DemoException\\DemoException.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\demoexception\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A40A49C-2DBA-4685-B584-A643C25282AB}|DemoException\\DemoException.csproj|solutionrelative:demoexception\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}|DemoCollection\\DemoCollection.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\demos\\democlasse\\democollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EF206C3-90BB-4B2F-A63A-EF1263BA1272}|DemoCollection\\DemoCollection.csproj|solutionrelative:democollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgeInvalidException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoException\\Exceptions\\AgeInvalidException.cs",
+              "RelativeDocumentMoniker": "DemoException\\Exceptions\\AgeInvalidException.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoException\\Exceptions\\AgeInvalidException.cs",
+              "RelativeToolTip": "DemoException\\Exceptions\\AgeInvalidException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:59:35.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoException\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "DemoException\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoException\\Classes\\User.cs",
+              "RelativeToolTip": "DemoException\\Classes\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:45:00.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoException\\Program.cs",
+              "RelativeDocumentMoniker": "DemoException\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoException\\Program.cs",
+              "RelativeToolTip": "DemoException\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:38:08.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Classes\\User.cs",
               "RelativeDocumentMoniker": "DemoCollection\\Classes\\User.cs",
@@ -38,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DemoCollection.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\DemoCollection.csproj",
               "RelativeDocumentMoniker": "DemoCollection\\DemoCollection.csproj",
@@ -50,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Demos\\DemoClasse\\DemoCollection\\Program.cs",
               "RelativeDocumentMoniker": "DemoCollection\\Program.cs",

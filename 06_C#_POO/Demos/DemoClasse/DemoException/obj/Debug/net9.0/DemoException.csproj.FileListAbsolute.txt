@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\bin\Debug\net9.0\DemoException.exe
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\bin\Debug\net9.0\DemoException.deps.json
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\bin\Debug\net9.0\DemoException.runtimeconfig.json
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\bin\Debug\net9.0\DemoException.dll
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\bin\Debug\net9.0\DemoException.pdb
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\obj\Debug\net9.0\DemoException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\obj\Debug\net9.0\DemoException.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\obj\Debug\net9.0\DemoException.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\obj\Debug\net9.0\DemoException.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\obj\Debug\net9.0\DemoException.sourcelink.json
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\obj\Debug\net9.0\DemoException.dll
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\obj\Debug\net9.0\refint\DemoException.dll
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\obj\Debug\net9.0\DemoException.pdb
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\obj\Debug\net9.0\DemoException.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MCDP\06_C#_POO\Demos\DemoClasse\DemoException\obj\Debug\net9.0\ref\DemoException.dll
