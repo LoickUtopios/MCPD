@@ -21,6 +21,7 @@
 
 // Déclaration et affectation d'une liste vide
 using DemoCollection.Classes;
+using System.Collections;
 
 List<string> listeDeStrings  = new List<string>();
 
@@ -133,3 +134,46 @@ foreach (var paire in ageDesPersonnes)
 }
 
 
+/* PILES (LIFO)
+ * -------------------
+ * Une pile est une collection particulière ne permettant que de recupérer le dernier élément inséré.
+ * 
+ * Utilisation : 
+ * 
+ */
+
+Stack<int> pile = new Stack<int>();
+pile.Push(1);
+pile.Push(2);
+pile.Push(3);
+pile.Push(4);
+// Pop permet de retirer et de récupérer le dernier élément inséré de la pile.
+Console.WriteLine("Sommet de la pile : " + pile.Pop());
+// Peek permet de regarder le dernier élément inséré mais sans le retirer de la pile.
+Console.WriteLine("Sommet de la pile (read only) : " + pile.Peek());
+
+
+/* Files (FIFO)
+ * -------------------
+ * Une file est une collection organiser comme une file d'attente. 
+ * Le premiere élément à être placé dans la file sera également le premier à en sortir. 
+ * 
+ * Utilisation : File d'attente, organisation des requêtes, etc...
+ * 
+ */
+
+Queue<string> file = new Queue<string>();
+file.Enqueue("Marco");
+file.Enqueue("Albert");
+file.Enqueue("Bob");
+file.Enqueue("Carlo");
+
+// Lire le premier sans l'enlever
+Console.WriteLine("Le premier de la file est " + file.Peek()); // Marco
+
+while (file.Count > 0)
+{
+    Console.WriteLine("Retiré de la file : " + file.Dequeue()); 
+}
+
+Console.WriteLine("Après avec retiré tout le monde de la file, il reste : " + file.Count); 
