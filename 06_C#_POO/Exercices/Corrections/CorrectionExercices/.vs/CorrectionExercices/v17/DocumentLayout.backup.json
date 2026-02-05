@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|solutionrelative:exercice18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice18\\classes\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|solutionrelative:exercice18\\classes\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice18\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|solutionrelative:exercice18\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice18\\exercice18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B26659CF-2F6F-4AB6-B839-6D8D27878523}|Exercice18\\Exercice18.csproj|solutionrelative:exercice18\\exercice18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{67FAB208-18F9-4219-AD33-4F4100690777}|Exercice20\\Exercice20.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FAB208-18F9-4219-AD33-4F4100690777}|Exercice20\\Exercice20.csproj|solutionrelative:exercice20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Livre.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Classes\\Livre.cs",
-              "RelativeDocumentMoniker": "Exercice18\\Classes\\Livre.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Classes\\Livre.cs",
-              "RelativeToolTip": "Exercice18\\Classes\\Livre.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:04:18.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bibliotheque.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Classes\\Bibliotheque.cs",
-              "RelativeDocumentMoniker": "Exercice18\\Classes\\Bibliotheque.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Classes\\Bibliotheque.cs",
-              "RelativeToolTip": "Exercice18\\Classes\\Bibliotheque.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:04:11.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Exercice18",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Exercice18.csproj",
-              "RelativeDocumentMoniker": "Exercice18\\Exercice18.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Exercice18.csproj",
-              "RelativeToolTip": "Exercice18\\Exercice18.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-03T15:03:49.264Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice18\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice18\\Program.cs",
-              "RelativeToolTip": "Exercice18\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice20\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice20\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice20\\Program.cs",
+              "RelativeToolTip": "Exercice20\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:37:34.81Z",
+              "WhenOpened": "2026-02-05T09:44:34.816Z",
               "EditorCaption": ""
             }
           ]
