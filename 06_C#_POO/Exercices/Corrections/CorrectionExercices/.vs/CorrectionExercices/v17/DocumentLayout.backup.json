@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67FAB208-18F9-4219-AD33-4F4100690777}|Exercice20\\Exercice20.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67FAB208-18F9-4219-AD33-4F4100690777}|Exercice20\\Exercice20.csproj|solutionrelative:exercice20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39245DED-E039-4AFC-A848-3DE499DB028A}|Exercice21\\Exercice21.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39245DED-E039-4AFC-A848-3DE499DB028A}|Exercice21\\Exercice21.csproj|solutionrelative:exercice21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39245DED-E039-4AFC-A848-3DE499DB028A}|Exercice21\\Exercice21.csproj|c:\\users\\admin\\desktop\\mcdp\\06_c#_poo\\exercices\\corrections\\correctionexercices\\exercice21\\exceptions\\invalidarrayexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39245DED-E039-4AFC-A848-3DE499DB028A}|Exercice21\\Exercice21.csproj|solutionrelative:exercice21\\exceptions\\invalidarrayexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidArrayException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice21\\Exceptions\\InvalidArrayException.cs",
+              "RelativeDocumentMoniker": "Exercice21\\Exceptions\\InvalidArrayException.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice21\\Exceptions\\InvalidArrayException.cs",
+              "RelativeToolTip": "Exercice21\\Exceptions\\InvalidArrayException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:35:26.723Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice20\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice20\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice20\\Program.cs",
-              "RelativeToolTip": "Exercice20\\Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice21\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice21\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice21\\Program.cs*",
+              "RelativeToolTip": "Exercice21\\Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwBsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T09:44:34.816Z",
+              "WhenOpened": "2026-02-05T13:27:44.187Z",
               "EditorCaption": ""
             }
           ]
