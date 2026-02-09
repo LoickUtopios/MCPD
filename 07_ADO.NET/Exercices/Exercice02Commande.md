@@ -25,9 +25,9 @@ Vous devez créer une application de gestion des commandes qui permet de visuali
 1. Créer une méthode qui permet d'afficher tous les clients
 2. Créer une méthode qui permet d'ajouter un client
 3. Créer une méthode qui permet d'éditer un client
-4. Créer une méthode qui permet de supprimer un client (et ses commandes)
-5. Créer une méthode pour afficher le détail d'un client avec ses commandes
-6. Créer une méthode qui permet d'ajouter une commande à un client
+4. Créer une méthode qui permet d'ajouter une commande à un client
+5. Créer une méthode qui permet de supprimer un client (et ses commandes)
+6. Créer une méthode pour afficher le détail d'un client avec ses commandes
 
 ## Bonus
 Créer une Interface Homme Machine pour tester votre application
