@@ -133,11 +133,14 @@ namespace CorrectionExercices1.Class.Repository
             using (MySqlConnection connection = new MySqlConnection(connectionString))
             {
                 connection.Open();
-                string query = "SELECT * FROM Etudiant WHERE nom LIKE '%@saisie%' OR prenom LIKE '%@saisie%';";
+
+                // Ici, je recupère la liste de toutes les personnes dont le nom ou prénom
+                // contient la saisie de l'utilisateur.
+                string query = "SELECT * FROM Etudiant WHERE nom LIKE @saisie OR prenom LIKE @saisie;";
 
                 using (MySqlCommand command = new MySqlCommand(query, connection))
                 {
-                    command.Parameters.AddWithValue("@saisie", saisie);
+                    command.Parameters.AddWithValue("@saisie", $"%{saisie}%");
                     MySqlDataReader reader = command.ExecuteReader();
 
                     while (reader.Read())
