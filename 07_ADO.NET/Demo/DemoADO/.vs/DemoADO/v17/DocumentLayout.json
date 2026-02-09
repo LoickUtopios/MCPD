@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Demo\\DemoADO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D7C687A-FC79-406A-B7DE-EE3721FD6DCB}|DemoADO\\DemoADO.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\demo\\demoado\\demoado\\classes\\repository\\personnerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D7C687A-FC79-406A-B7DE-EE3721FD6DCB}|DemoADO\\DemoADO.csproj|solutionrelative:demoado\\classes\\repository\\personnerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D7C687A-FC79-406A-B7DE-EE3721FD6DCB}|DemoADO\\DemoADO.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\demo\\demoado\\demoado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D7C687A-FC79-406A-B7DE-EE3721FD6DCB}|DemoADO\\DemoADO.csproj|solutionrelative:demoado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D7C687A-FC79-406A-B7DE-EE3721FD6DCB}|DemoADO\\DemoADO.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\demo\\demoado\\demoado\\classes\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D7C687A-FC79-406A-B7DE-EE3721FD6DCB}|DemoADO\\DemoADO.csproj|solutionrelative:demoado\\classes\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7C687A-FC79-406A-B7DE-EE3721FD6DCB}|DemoADO\\DemoADO.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\demo\\demoado\\demoado\\classes\\repository\\personnerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7C687A-FC79-406A-B7DE-EE3721FD6DCB}|DemoADO\\DemoADO.csproj|solutionrelative:demoado\\classes\\repository\\personnerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PersonneRepository.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Demo\\DemoADO\\DemoADO\\Classes\\Repository\\PersonneRepository.cs",
               "RelativeDocumentMoniker": "DemoADO\\Classes\\Repository\\PersonneRepository.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Demo\\DemoADO\\DemoADO\\Classes\\Repository\\PersonneRepository.cs",
               "RelativeToolTip": "DemoADO\\Classes\\Repository\\PersonneRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIA+wIUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T16:13:52.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Personne.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Demo\\DemoADO\\DemoADO\\Classes\\Model\\Personne.cs",
               "RelativeDocumentMoniker": "DemoADO\\Classes\\Model\\Personne.cs",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Demo\\DemoADO\\DemoADO\\Program.cs",
               "RelativeDocumentMoniker": "DemoADO\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Demo\\DemoADO\\DemoADO\\Program.cs",
               "RelativeToolTip": "DemoADO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T12:15:29.321Z",
               "EditorCaption": ""
