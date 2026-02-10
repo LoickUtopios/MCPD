@@ -2,6 +2,7 @@
 using DemoEntityFramework.DbManager;
 using DemoEntityFramework.Model;
 using Microsoft.EntityFrameworkCore;
+using Test.Model;
 
 
 /*
@@ -123,3 +124,33 @@ foreach(string name in allName)
 {
     Console.WriteLine(name);
 }
+
+
+/*
+ * JOINTURES
+ * 
+*/
+
+Personne personne = db.Personne.First();
+
+db.Commande.Add(new Commande("Souris", 10, new DateTime(2020,10,10), personne.Id));
+db.Commande.Add(new Commande("Clavier", 15, new DateTime(2020,10,10), personne.Id));
+db.Commande.Add(new Commande("PC", 1000, new DateTime(2020,10,10), personne.Id));
+
+db.SaveChanges();
+
+
+// Pour récupérer un élément via une jointure, nous devons utiliser le Include qui permet de charger la donnée.
+// Si include n'est pas précisé, Personne restera null (sauf s'il est encore en cache)
+Console.WriteLine(db.Commande.First()); 
+Console.WriteLine(db.Commande.Include(c => c.Personne).First().Personne);
+
+List<Commande> commandes = db.Commande
+    .Include(c => c.Personne)
+    .ToList();
+
+foreach (var c in commandes)
+{
+    Console.WriteLine($"{c.Description} - {c.Personne!.FirstName}");
+}
+
