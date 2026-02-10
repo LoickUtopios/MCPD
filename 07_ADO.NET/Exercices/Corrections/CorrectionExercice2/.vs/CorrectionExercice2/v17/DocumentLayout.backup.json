@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercice2\\correctionexercice2\\class\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|solutionrelative:correctionexercice2\\class\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercice2\\correctionexercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|solutionrelative:correctionexercice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercice2\\correctionexercice2\\data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|solutionrelative:correctionexercice2\\data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercice2\\correctionexercice2\\class\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|solutionrelative:correctionexercice2\\class\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercice2\\correctionexercice2\\class\\repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|solutionrelative:correctionexercice2\\class\\repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercice2\\correctionexercice2\\class\\repository\\commanderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|solutionrelative:correctionexercice2\\class\\repository\\commanderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercice2\\correctionexercice2\\class\\model\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|solutionrelative:correctionexercice2\\class\\model\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercice2\\correctionexercice2\\class\\dtos\\clientinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|solutionrelative:correctionexercice2\\class\\dtos\\clientinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercice2\\correctionexercice2\\class\\dbmanager\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|solutionrelative:correctionexercice2\\class\\dbmanager\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercice2\\correctionexercice2\\data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{23188D6B-2A2B-4AEC-80BE-50CF45B425DA}|CorrectionExercice2\\CorrectionExercice2.csproj|solutionrelative:correctionexercice2\\data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.sql ",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\data.sql",
+              "RelativeDocumentMoniker": "CorrectionExercice2\\data.sql",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\data.sql",
+              "RelativeToolTip": "CorrectionExercice2\\data.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-10T09:50:41.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\DTOs\\ClientInfoDTO.cs",
+              "RelativeDocumentMoniker": "CorrectionExercice2\\Class\\DTOs\\ClientInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\DTOs\\ClientInfoDTO.cs",
+              "RelativeToolTip": "CorrectionExercice2\\Class\\DTOs\\ClientInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:27.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\Repository\\CommandeRepository.cs",
+              "RelativeDocumentMoniker": "CorrectionExercice2\\Class\\Repository\\CommandeRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\Repository\\CommandeRepository.cs",
+              "RelativeToolTip": "CorrectionExercice2\\Class\\Repository\\CommandeRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T07:58:06.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\Repository\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "CorrectionExercice2\\Class\\Repository\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\Repository\\ClientRepository.cs",
+              "RelativeToolTip": "CorrectionExercice2\\Class\\Repository\\ClientRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswKoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T07:57:51.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IHM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\IHM.cs",
+              "RelativeDocumentMoniker": "CorrectionExercice2\\Class\\IHM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\IHM.cs",
+              "RelativeToolTip": "CorrectionExercice2\\Class\\IHM.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAwwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T07:53:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Commande.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\Model\\Commande.cs",
+              "RelativeDocumentMoniker": "CorrectionExercice2\\Class\\Model\\Commande.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\Model\\Commande.cs",
+              "RelativeToolTip": "CorrectionExercice2\\Class\\Model\\Commande.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T07:49:48.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\Model\\Client.cs",
+              "RelativeDocumentMoniker": "CorrectionExercice2\\Class\\Model\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\Model\\Client.cs",
+              "RelativeToolTip": "CorrectionExercice2\\Class\\Model\\Client.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T07:45:29.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Program.cs",
+              "RelativeDocumentMoniker": "CorrectionExercice2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Program.cs",
+              "RelativeToolTip": "CorrectionExercice2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:26:27.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\DbManager\\DataConnection.cs",
+              "RelativeDocumentMoniker": "CorrectionExercice2\\Class\\DbManager\\DataConnection.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercice2\\CorrectionExercice2\\Class\\DbManager\\DataConnection.cs",
+              "RelativeToolTip": "CorrectionExercice2\\Class\\DbManager\\DataConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T07:54:55.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
