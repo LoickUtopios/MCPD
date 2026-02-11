@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{970C5AC4-FA64-4A40-A0FB-3D2FBA22CD21}|CorrectionExercicesEF1\\CorrectionExercicesEF1.csproj|solutionrelative:correctionexercicesef1\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercicesEF1\\CorrectionExercicesEF1\\Migrations\\20260211100843_InitAdresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CorrectionExercicesEF1\\Migrations\\20260211100843_InitAdresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{970C5AC4-FA64-4A40-A0FB-3D2FBA22CD21}|CorrectionExercicesEF1\\CorrectionExercicesEF1.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercicesef1\\correctionexercicesef1\\classes\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{970C5AC4-FA64-4A40-A0FB-3D2FBA22CD21}|CorrectionExercicesEF1\\CorrectionExercicesEF1.csproj|solutionrelative:correctionexercicesef1\\classes\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970C5AC4-FA64-4A40-A0FB-3D2FBA22CD21}|CorrectionExercicesEF1\\CorrectionExercicesEF1.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionexercicesef1\\correctionexercicesef1\\migrations\\20260211100843_initadresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970C5AC4-FA64-4A40-A0FB-3D2FBA22CD21}|CorrectionExercicesEF1\\CorrectionExercicesEF1.csproj|solutionrelative:correctionexercicesef1\\migrations\\20260211100843_initadresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "20260211100843_InitAdresse.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercicesEF1\\CorrectionExercicesEF1\\Migrations\\20260211100843_InitAdresse.cs",
               "RelativeDocumentMoniker": "CorrectionExercicesEF1\\Migrations\\20260211100843_InitAdresse.cs",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "CorrectionExercicesEF1\\Migrations\\20260211100843_InitAdresse.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T10:08:43.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T10:08:43.728Z"
             },
             {
               "$type": "Document",
@@ -49,14 +48,13 @@
               "RelativeDocumentMoniker": "CorrectionExercicesEF1\\DbManager\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercicesEF1\\CorrectionExercicesEF1\\DbManager\\AppDbContext.cs",
               "RelativeToolTip": "CorrectionExercicesEF1\\DbManager\\AppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T10:03:40.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T10:03:40.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Adresse.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercicesEF1\\CorrectionExercicesEF1\\Classes\\Adresse.cs",
               "RelativeDocumentMoniker": "CorrectionExercicesEF1\\Classes\\Adresse.cs",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "CorrectionExercicesEF1\\Classes\\Adresse.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T09:57:21.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T09:57:21.989Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "CorrectionExercicesEF1\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionExercicesEF1\\CorrectionExercicesEF1\\Program.cs",
               "RelativeToolTip": "CorrectionExercicesEF1\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAYwGAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T09:53:40.226Z",
               "EditorCaption": ""

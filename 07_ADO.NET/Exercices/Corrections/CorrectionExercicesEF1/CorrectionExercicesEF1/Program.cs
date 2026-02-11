@@ -64,6 +64,10 @@ void UpdateAdress(AppDbContext db)
     ad.CodePostal = adresse.CodePostal;
 
     db.Adresses.Update(ad);
+    // ADD 
+    // ADD 
+    // ADD 
+    // REMOVE
     db.SaveChanges();
 }
 

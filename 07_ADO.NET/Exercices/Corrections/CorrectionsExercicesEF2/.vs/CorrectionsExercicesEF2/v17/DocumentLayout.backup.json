@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionsexercicesef2\\correctionsexercicesef2\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|solutionrelative:correctionsexercicesef2\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionsexercicesef2\\correctionsexercicesef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|solutionrelative:correctionsexercicesef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionsexercicesef2\\correctionsexercicesef2\\models\\chambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|solutionrelative:correctionsexercicesef2\\models\\chambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionsexercicesef2\\correctionsexercicesef2\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|solutionrelative:correctionsexercicesef2\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionsexercicesef2\\correctionsexercicesef2\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|solutionrelative:correctionsexercicesef2\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionsexercicesef2\\correctionsexercicesef2\\enum\\statutchambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|solutionrelative:correctionsexercicesef2\\enum\\statutchambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|c:\\users\\admin\\desktop\\mcdp\\07_ado.net\\exercices\\corrections\\correctionsexercicesef2\\correctionsexercicesef2\\enum\\statutreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775EC52-DD99-4A7E-BB21-87D336F73EE2}|CorrectionsExercicesEF2\\CorrectionsExercicesEF2.csproj|solutionrelative:correctionsexercicesef2\\enum\\statutreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\DbManager\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CorrectionsExercicesEF2\\DbManager\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\DbManager\\AppDbContext.cs",
+              "RelativeToolTip": "CorrectionsExercicesEF2\\DbManager\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:22:34.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatutChambre.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Enum\\StatutChambre.cs",
+              "RelativeDocumentMoniker": "CorrectionsExercicesEF2\\Enum\\StatutChambre.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Enum\\StatutChambre.cs",
+              "RelativeToolTip": "CorrectionsExercicesEF2\\Enum\\StatutChambre.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:13:54.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Program.cs",
+              "RelativeDocumentMoniker": "CorrectionsExercicesEF2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Program.cs",
+              "RelativeToolTip": "CorrectionsExercicesEF2\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:09:36.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chambre.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Models\\Chambre.cs",
+              "RelativeDocumentMoniker": "CorrectionsExercicesEF2\\Models\\Chambre.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Models\\Chambre.cs",
+              "RelativeToolTip": "CorrectionsExercicesEF2\\Models\\Chambre.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvx8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:10:14.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "CorrectionsExercicesEF2\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Models\\Reservation.cs",
+              "RelativeToolTip": "CorrectionsExercicesEF2\\Models\\Reservation.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:10:21.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatutReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Enum\\StatutReservation.cs",
+              "RelativeDocumentMoniker": "CorrectionsExercicesEF2\\Enum\\StatutReservation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Enum\\StatutReservation.cs",
+              "RelativeToolTip": "CorrectionsExercicesEF2\\Enum\\StatutReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:14:32.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "CorrectionsExercicesEF2\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\07_ADO.NET\\Exercices\\Corrections\\CorrectionsExercicesEF2\\CorrectionsExercicesEF2\\Models\\Client.cs",
+              "RelativeToolTip": "CorrectionsExercicesEF2\\Models\\Client.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:10:04.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
