@@ -1,0 +1,19 @@
+﻿@{
+    Dog? doggy = (Dog?)ViewData["Dog"];
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Display Dog - Exercice 2 </title>
+</head>
+<body>
+    <main>
+        <p>Le chien sélectionné est : @ViewBag.Dog.ToString()</p>
+        <p>Nom (ViewBag) : @ViewBag.Dog.Name</p>
+        
+        <p>Nom (ViewData) : @doggy.Name</p>
+    </main>
+</body>
+</html>
