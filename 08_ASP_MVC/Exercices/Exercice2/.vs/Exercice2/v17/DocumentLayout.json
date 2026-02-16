@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Exercice2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Exercice2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T10:37:11.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

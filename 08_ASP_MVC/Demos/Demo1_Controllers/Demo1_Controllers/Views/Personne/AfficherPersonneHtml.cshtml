@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index - Demo1_Controllers</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <main>
+        <h1>Vous êtes sur la page Afficher Personne !!</h1>
+        <h2>Bienvenue à @ViewData["nom"] @ViewData["prenom"]</h2>
+        <p>@ViewBag.Personne.ToString()</p>
+
+        <a asp-controller="Home" asp-action="Index">Lien vers la page Home/Index </a>
+    </main>
+</body>
+</html>

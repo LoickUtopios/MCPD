@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50FED244-A8C4-46B8-AAC4-A603EE475230}|Demo1_Controllers\\Demo1_Controllers.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo1_controllers\\demo1_controllers\\controllers\\personnecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FED244-A8C4-46B8-AAC4-A603EE475230}|Demo1_Controllers\\Demo1_Controllers.csproj|solutionrelative:demo1_controllers\\controllers\\personnecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FED244-A8C4-46B8-AAC4-A603EE475230}|Demo1_Controllers\\Demo1_Controllers.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo1_controllers\\demo1_controllers\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FED244-A8C4-46B8-AAC4-A603EE475230}|Demo1_Controllers\\Demo1_Controllers.csproj|solutionrelative:demo1_controllers\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50FED244-A8C4-46B8-AAC4-A603EE475230}|Demo1_Controllers\\Demo1_Controllers.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo1_controllers\\demo1_controllers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50FED244-A8C4-46B8-AAC4-A603EE475230}|Demo1_Controllers\\Demo1_Controllers.csproj|solutionrelative:demo1_controllers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "PersonneController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\Demo1_Controllers\\Controllers\\PersonneController.cs",
+              "RelativeDocumentMoniker": "Demo1_Controllers\\Controllers\\PersonneController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\Demo1_Controllers\\Controllers\\PersonneController.cs",
+              "RelativeToolTip": "Demo1_Controllers\\Controllers\\PersonneController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:11:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\Demo1_Controllers\\Models\\Personne.cs",
+              "RelativeDocumentMoniker": "Demo1_Controllers\\Models\\Personne.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\Demo1_Controllers\\Models\\Personne.cs",
+              "RelativeToolTip": "Demo1_Controllers\\Models\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:50:37.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\Demo1_Controllers\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Demo1_Controllers\\Views\\_ViewImports.cshtml",
@@ -38,25 +72,24 @@
               "RelativeToolTip": "Demo1_Controllers\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-16T07:52:55.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T07:52:55.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\Demo1_Controllers\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Demo1_Controllers\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\Demo1_Controllers\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Demo1_Controllers\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T07:52:01.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\Demo1_Controllers\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Demo1_Controllers\\Views\\Home\\Privacy.cshtml",
@@ -64,18 +97,17 @@
               "RelativeToolTip": "Demo1_Controllers\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-16T07:51:30.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T07:51:30.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\Demo1_Controllers\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Demo1_Controllers\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo1_Controllers\\Demo1_Controllers\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Demo1_Controllers\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-16T07:50:05.805Z",
               "EditorCaption": ""

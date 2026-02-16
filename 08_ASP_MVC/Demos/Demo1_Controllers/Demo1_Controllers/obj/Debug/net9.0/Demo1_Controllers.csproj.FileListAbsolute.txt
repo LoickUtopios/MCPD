@@ -86,7 +86,6 @@ C:\Users\Admin\Desktop\MCDP\08_ASP_MVC\Demos\Demo1_Controllers\Demo1_Controllers
 C:\Users\Admin\Desktop\MCDP\08_ASP_MVC\Demos\Demo1_Controllers\Demo1_Controllers\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Admin\Desktop\MCDP\08_ASP_MVC\Demos\Demo1_Controllers\Demo1_Controllers\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Admin\Desktop\MCDP\08_ASP_MVC\Demos\Demo1_Controllers\Demo1_Controllers\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\Admin\Desktop\MCDP\08_ASP_MVC\Demos\Demo1_Controllers\Demo1_Controllers\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Admin\Desktop\MCDP\08_ASP_MVC\Demos\Demo1_Controllers\Demo1_Controllers\obj\Debug\net9.0\Demo1_Controllers.dll
 C:\Users\Admin\Desktop\MCDP\08_ASP_MVC\Demos\Demo1_Controllers\Demo1_Controllers\obj\Debug\net9.0\refint\Demo1_Controllers.dll
 C:\Users\Admin\Desktop\MCDP\08_ASP_MVC\Demos\Demo1_Controllers\Demo1_Controllers\obj\Debug\net9.0\Demo1_Controllers.pdb
