@@ -1,0 +1,49 @@
+﻿@{
+    // Déclaration et affectation de variables
+    string message = "Voici un message créé dans ma vue !";
+    List<string> listeDeNoms = new List<string>() {"toto", "tata", "titi", "tutu"};
+    bool estMajeur = true;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index - Demo2_View</title>
+</head>
+<body>
+    <!-- Utilisation d'une variable dans ma view -->
+    <h1>@message</h1>
+
+    <h2>Condition</h2>
+
+    <!-- Utilisation d'une condition (pas besoin de arobase après le if) -->
+    @if (estMajeur)
+    {
+        <p>Vous êtes majeurs !!!</p>
+    }else
+    {
+        <p>Vous êtes mineurs !!!</p>
+    }
+
+    <!-- Utilisation d'une boucle (for, while, foreach) -->
+    <h2>Boucles</h2>
+
+    <ul>
+        @foreach(string nom in listeDeNoms)
+        {
+            <li>@nom</li>
+        }
+    </ul>
+
+    <!-- On peut ajouter tout le code possible en c# directement dans la vue -->
+    <h2>Code C# inline</h2>
+
+    <!-- Utilisation d'une classe générale -->
+    <p>Date et heure actuelle : @DateTime.Now</p>
+    <!-- Utilisation d'un calcul arithmétique -->
+    <p>Calcule de 5 + 4 : @(5+4)</p>
+
+</body>
+</html>
