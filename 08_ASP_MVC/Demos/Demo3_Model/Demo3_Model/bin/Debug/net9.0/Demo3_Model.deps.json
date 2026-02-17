@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Demo3_Model/1.0.0": {
+        "runtime": {
+          "Demo3_Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo3_Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
