@@ -1,0 +1,60 @@
+﻿@{
+    int age = (int?) ViewData["age"] ?? 0;
+    List<string> hobbies = ViewData["hobbies"] as List<string>; 
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Display Index - Exercice3</title>
+
+    <link rel="stylesheet" href="~/css/display.css" />
+</head>
+<body>
+    <p>Nom : @ViewData["prenom"]</p>
+    <p>Age : @age</p>
+    <p>Statut : 
+        @if (age >= 18)
+        {
+            <span>Majeur</span>
+        } else
+        {
+            <span>Mineur</span>
+        }
+    </p>
+
+    <p>Hobbies : </p>
+
+    @if(hobbies == null || hobbies.Count == 0)
+    {
+        <p>Aucun hobbie renseigné</p>
+    }
+    else
+    {
+        <ul>
+            @foreach (string hobbie in hobbies)
+            {
+                <li class="hobby">@hobbie</li>
+            }
+        </ul>
+    }
+
+    <ul>
+		@for (int i = 0; i <= 10; i++)
+		{
+            @if(i % 2 == 0)
+            {
+                <li><strong>Nombre - @i</strong></li>
+            }
+            else
+            {
+                <li>Nombre - @i</li>
+            }
+        }
+    </ul>
+
+
+</body>
+</html>
