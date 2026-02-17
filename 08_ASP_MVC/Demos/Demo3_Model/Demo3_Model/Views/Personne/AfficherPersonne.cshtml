@@ -1,4 +1,5 @@
-﻿@model Personne
+﻿<!-- Pour importer un model transmit à une vue, on utilise : -->
+@model Personne
 
 <!DOCTYPE html>
 <html lang="en">
@@ -8,6 +9,7 @@
     <title>AfficherPersonne - Demo3_Model</title>
 </head>
 <body>
+    <!-- Une fois importé, le modèle peut être utilisé directement avec arobase Model -->
    <p>@Model.ToString()</p>
    <p>Nom : @Model.Name</p>
    <p>Description : @Model.Description</p>
