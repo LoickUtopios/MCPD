@@ -1,0 +1,23 @@
+﻿@model Product
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Afficher produit par id - Exercice4</title>
+</head>
+<body>
+    @if(Model == null){
+        <p>Aucun produit trouvé avec cette ID</p>
+    }
+    else
+    {
+        <div>
+            <p>Nom : @Model.Name</p>
+            <p>Categorie : @Model.Category</p>
+            <p>Prix : @Model.Price</p>
+        </div>
+    }
+</body>
+</html>

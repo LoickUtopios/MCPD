@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\views\\product\\afficherproduitfiltre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\views\\product\\afficherproduitfiltre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\views\\product\\afficherproduits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\views\\product\\afficherproduits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\views\\product\\afficherproduitfiltre.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\views\\product\\afficherproduitfiltre.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\views\\product\\afficherproduitparid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\views\\product\\afficherproduitparid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\views\\product\\afficherproduitparid.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\views\\product\\afficherproduitparid.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice4\\exercice4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8EBFEA-AD05-4CE3-8C4B-F5367A887200}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Exercice4\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Exercice4\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T15:34:03.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AfficherProduitFiltre.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Product\\AfficherProduitFiltre.cshtml",
+              "RelativeDocumentMoniker": "Exercice4\\Views\\Product\\AfficherProduitFiltre.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Product\\AfficherProduitFiltre.cshtml",
+              "RelativeToolTip": "Exercice4\\Views\\Product\\AfficherProduitFiltre.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T15:32:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AfficherProduitParId.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Product\\AfficherProduitParId.cshtml",
+              "RelativeDocumentMoniker": "Exercice4\\Views\\Product\\AfficherProduitParId.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Product\\AfficherProduitParId.cshtml",
+              "RelativeToolTip": "Exercice4\\Views\\Product\\AfficherProduitParId.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T15:30:49.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AfficherProduitFiltre.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Product\\AfficherProduitFiltre.cshtml",
+              "RelativeDocumentMoniker": "Exercice4\\Views\\Product\\AfficherProduitFiltre.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Product\\AfficherProduitFiltre.cshtml",
+              "RelativeToolTip": "Exercice4\\Views\\Product\\AfficherProduitFiltre.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T15:27:33.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AfficherProduits.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Product\\AfficherProduits.cshtml",
+              "RelativeDocumentMoniker": "Exercice4\\Views\\Product\\AfficherProduits.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Product\\AfficherProduits.cshtml",
+              "RelativeToolTip": "Exercice4\\Views\\Product\\AfficherProduits.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T15:26:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AfficherProduitParId.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Product\\AfficherProduitParId.cshtml",
+              "RelativeDocumentMoniker": "Exercice4\\Views\\Product\\AfficherProduitParId.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Product\\AfficherProduitParId.cshtml",
+              "RelativeToolTip": "Exercice4\\Views\\Product\\AfficherProduitParId.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T15:26:58.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Exercice4\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:20:30.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exercice4\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exercice4\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T10:58:02.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Services\\ProductService.cs",
+              "RelativeToolTip": "Exercice4\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:06:44.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Exercice4\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:04:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Models\\Product.cs",
+              "RelativeToolTip": "Exercice4\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:01:02.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Exercice4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:58:36.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Program.cs",
+              "RelativeToolTip": "Exercice4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:57:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exercice4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice4\\Exercice4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Exercice4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T10:58:19.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
