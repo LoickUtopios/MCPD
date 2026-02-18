@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice6\\exercice6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice6\\exercice6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice6\\exercice6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice6\\exercice6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice6\\exercice6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\Exercice6\\appsettings.json",
+              "RelativeDocumentMoniker": "Exercice6\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\Exercice6\\appsettings.json",
+              "RelativeToolTip": "Exercice6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T12:51:30.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\Exercice6\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice6\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\Exercice6\\Program.cs",
+              "RelativeToolTip": "Exercice6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:51:29.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\Exercice6\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exercice6\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\Exercice6\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exercice6\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T12:51:27.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\Exercice6\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Exercice6\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\Exercice6\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Exercice6\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T12:51:24.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\Exercice6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Exercice6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice6\\Exercice6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Exercice6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:51:03.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
