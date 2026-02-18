@@ -1,0 +1,41 @@
+﻿@model Contact
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Demo4_rooting_formulaire</title>
+</head>
+<body>
+    <form asp-action="CreerContact" method="post">
+        <div>
+            <label asp-for="Name"></label>
+            <input asp-for="Name" />
+            <span asp-validation-for="Name"></span>
+        </div>
+        <div>
+            <label asp-for="Age"></label>
+            <input asp-for="Age" />
+            <span asp-validation-for="Age"></span>
+        </div>
+        <div>
+            <label asp-for="Description"></label>
+            <input asp-for="Description" />
+            <span asp-validation-for="Description"></span>
+        </div>
+        <div>
+            <label asp-for="Phone"></label>
+            <input asp-for="Phone" />
+            <span asp-validation-for="Phone"></span>
+        </div>
+
+        <div asp-validation-summary="All">
+
+        </div>
+
+        <button type="submit">Envoyer</button>
+    </form>
+
+</body>
+</html>

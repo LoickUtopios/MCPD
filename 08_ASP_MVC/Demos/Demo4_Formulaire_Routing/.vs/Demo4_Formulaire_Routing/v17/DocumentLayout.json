@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo4_formulaire_routing\\demo4_formulaire_routing\\views\\home\\affichercontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|solutionrelative:demo4_formulaire_routing\\views\\home\\affichercontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo4_formulaire_routing\\demo4_formulaire_routing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|solutionrelative:demo4_formulaire_routing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo4_formulaire_routing\\demo4_formulaire_routing\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|solutionrelative:demo4_formulaire_routing\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo4_formulaire_routing\\demo4_formulaire_routing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|solutionrelative:demo4_formulaire_routing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo4_formulaire_routing\\demo4_formulaire_routing\\views\\home\\succes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|solutionrelative:demo4_formulaire_routing\\views\\home\\succes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo4_formulaire_routing\\demo4_formulaire_routing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|solutionrelative:demo4_formulaire_routing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo4_formulaire_routing\\demo4_formulaire_routing\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|solutionrelative:demo4_formulaire_routing\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\demos\\demo4_formulaire_routing\\demo4_formulaire_routing\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53458F42-1951-4FC4-B42E-61EBFEAF89D7}|Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing.csproj|solutionrelative:demo4_formulaire_routing\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Demo4_Formulaire_Routing\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Demo4_Formulaire_Routing\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T08:07:22.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Demo4_Formulaire_Routing\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Demo4_Formulaire_Routing\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:06:22.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Demo4_Formulaire_Routing\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Demo4_Formulaire_Routing\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:06:20.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Succes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Views\\Home\\Succes.cshtml",
+              "RelativeDocumentMoniker": "Demo4_Formulaire_Routing\\Views\\Home\\Succes.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Views\\Home\\Succes.cshtml",
+              "RelativeToolTip": "Demo4_Formulaire_Routing\\Views\\Home\\Succes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:06:09.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AfficherContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Views\\Home\\AfficherContact.cshtml",
+              "RelativeDocumentMoniker": "Demo4_Formulaire_Routing\\Views\\Home\\AfficherContact.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Views\\Home\\AfficherContact.cshtml",
+              "RelativeToolTip": "Demo4_Formulaire_Routing\\Views\\Home\\AfficherContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:06:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Demo4_Formulaire_Routing\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Models\\Contact.cs",
+              "RelativeToolTip": "Demo4_Formulaire_Routing\\Models\\Contact.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:05:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo4_Formulaire_Routing\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Demo4_Formulaire_Routing\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:05:36.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo4_Formulaire_Routing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Demos\\Demo4_Formulaire_Routing\\Demo4_Formulaire_Routing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo4_Formulaire_Routing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:04:49.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
