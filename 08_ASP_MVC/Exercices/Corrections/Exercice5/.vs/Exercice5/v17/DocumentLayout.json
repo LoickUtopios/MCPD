@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice5\\exercice5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice5\\exercice5\\views\\product\\displayform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\views\\product\\displayform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice5\\exercice5\\views\\product\\displayresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\views\\product\\displayresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice5\\exercice5\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice5\\exercice5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice5\\exercice5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice5\\exercice5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice5\\exercice5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice5\\exercice5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\admin\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice5\\exercice5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Exercice5\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Exercice5\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T10:37:56.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Views\\Product\\DisplayResult.cshtml",
+              "RelativeDocumentMoniker": "Exercice5\\Views\\Product\\DisplayResult.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Views\\Product\\DisplayResult.cshtml",
+              "RelativeToolTip": "Exercice5\\Views\\Product\\DisplayResult.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T10:35:08.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Views\\Product\\DisplayForm.cshtml",
+              "RelativeDocumentMoniker": "Exercice5\\Views\\Product\\DisplayForm.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Views\\Product\\DisplayForm.cshtml",
+              "RelativeToolTip": "Exercice5\\Views\\Product\\DisplayForm.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T10:34:52.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Exercice5\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Exercice5\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:24:52.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Exercice5\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Models\\Product.cs",
+              "RelativeToolTip": "Exercice5\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:17:55.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice5\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Program.cs",
+              "RelativeToolTip": "Exercice5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:36:02.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exercice5\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exercice5\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:35:59.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exercice5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Exercice5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:35:57.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Exercice5\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Exercice5\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:35:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Exercice5\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice5\\Exercice5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Exercice5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:35:36.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
