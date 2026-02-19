@@ -1,0 +1,37 @@
+@model Student
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ajouter etudiant</title>
+</head>
+<body>
+    <form asp-action="AddStudent" method="post">
+        <div>
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" />
+            <span asp-validation-for="FirstName"></span>
+        </div>
+        <div>
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" />
+            <span asp-validation-for="LastName"></span>
+        </div>
+        <div>
+            <label asp-for="Age"></label>
+            <input asp-for="Age" />
+            <span asp-validation-for="Age"></span>
+        </div>
+        <div>
+            <label asp-for="Email"></label>
+            <input asp-for="Email"" />
+            <span asp-validation-for="Email"></span>
+        </div>
+
+        <button type="submit">Envoyer</button>
+    </form>
+
+</body>
+</html>

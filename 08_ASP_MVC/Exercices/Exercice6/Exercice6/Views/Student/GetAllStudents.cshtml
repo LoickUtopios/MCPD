@@ -1,0 +1,24 @@
+@model List<Student>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Afficher etudiants</title>
+</head>
+<body>
+    <h2>Liste des étudiants</h2>
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        <p>Etudiant n°@i</p>
+        <ul>
+            <li>Prenom: @Model[i].FirstName</li>
+            <li>Nom: @Model[i].LastName</li>
+            <li>Age: @Model[i].Age</li>
+            <li>Email : @Model[i].Email</li>
+        </ul>
+    }
+</body>
+</html>
+
